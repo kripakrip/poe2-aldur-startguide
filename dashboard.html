@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Что флипать и в чём гэмблить сегодня в PoE 2 Runes of Aldur. Автообновляемые данные с poe2scout.">
+<title>PoE 2 Aldur · Дашборд: что делать сегодня</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/dashboard.css">
+</head>
+<body>
+
+<button class="mobile-toggle" id="mobileToggle" aria-label="Меню">☰</button>
+
+<div class="app">
+
+  <!-- ========== SIDEBAR ========== -->
+  <aside class="sidebar" id="sidebar">
+    <a href="index.html" class="brand">
+      <span class="brand-title">Runes of Aldur</span>
+      <span class="brand-subtitle">Дашборд · live</span>
+    </a>
+
+    <nav class="nav">
+      <a href="index.html"><span class="nav-num">←</span>К гайду</a>
+      <div class="nav-divider"></div>
+      <a href="#overview" class="active"><span class="nav-num">01</span>Обзор</a>
+      <a href="#reforge"><span class="nav-num">02</span>Перековка (gamble)</a>
+      <a href="#movers"><span class="nav-num">03</span>Движение за 24h</a>
+      <a href="#lineage"><span class="nav-num">04</span>Lineage: buy-list</a>
+      <a href="#cheap-pools"><span class="nav-num">05</span>Дешёвые пулы</a>
+      <a href="#top-prices"><span class="nav-num">06</span>Топ по цене</a>
+      <a href="#how"><span class="nav-num">07</span>Как пользоваться</a>
+    </nav>
+
+    <div class="sidebar-footer">
+      Данные с <a href="https://poe2scout.com" target="_blank">poe2scout.com</a>.<br>
+      Обновляются автоматически каждые 6 часов через GitHub Actions.
+    </div>
+  </aside>
+
+  <main>
+
+    <!-- HERO -->
+    <section id="overview" class="hero" style="min-height: auto; padding: 64px 56px 48px;">
+      <div class="hero-bg"></div>
+      <div class="hero-content" style="max-width: 100%;">
+        <div class="hero-eyebrow">DASHBOARD · POE 2 · LIVE DATA</div>
+        <h1 style="font-size: clamp(34px, 4vw, 52px); margin-bottom: 18px;">
+          Что делать сегодня
+        </h1>
+        <p class="hero-lead" id="leadDescription" style="font-size: 20px;">
+          Автообновляемые возможности из текущей экономики PoE 2. Перековка, флип, накопление.
+        </p>
+
+        <div class="hero-meta" style="margin-bottom: 8px;">
+          <div class="meta-item">
+            <div class="meta-label">Лига</div>
+            <div class="meta-value" id="metaLeague">…</div>
+          </div>
+          <div class="meta-item">
+            <div class="meta-label">Курс</div>
+            <div class="meta-value" id="metaCourse">…</div>
+          </div>
+          <div class="meta-item">
+            <div class="meta-label">Обновлено</div>
+            <div class="meta-value" id="metaUpdated">…</div>
+          </div>
+          <div class="meta-item">
+            <div class="meta-label">Топ-стратегий</div>
+            <div class="meta-value" id="metaCount">…</div>
+          </div>
+        </div>
+
+        <div id="errorBox" class="callout danger" style="display:none; margin-top: 24px;">
+          <div class="callout-title">Не удалось загрузить данные</div>
+          <p id="errorMsg"></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ REFORGE ============ -->
+    <section id="reforge">
+      <header class="section-header">
+        <div class="section-eyebrow">Стратегия 1</div>
+        <h2>Перековка: что сейчас выгодно гэмблить</h2>
+        <p>
+          Логика: <strong>3 одинаковых дешёвых предмета</strong> (cost) → шанс попасть в любой из топовых исходов категории (revenue).
+          <code>Top-K ROI</code> — это <em>условная доходность</em> на удачное попадание в топ-25% пула.
+          Реальная вероятность такого попадания: <strong>~25%</strong> на одну попытку.
+        </p>
+        <div class="callout info">
+          <div class="callout-title">Как читать карточку</div>
+          <p>
+            <strong>Cost (×3)</strong> — сколько стоит закупка 3 cheapest для одной перековки.
+            <strong>Mean ROI</strong> — если бы новый предмет получался по равномерному рандому из всего пула.
+            <strong>Top-25% ROI</strong> — потолок при удачном попадании (~1 из 4 попыток).
+            <strong>Top outcomes</strong> — конкретные предметы, ради которых ты крутишь.
+          </p>
+        </div>
+      </header>
+
+      <div id="reforgeGrid" class="cards-grid"></div>
+    </section>
+
+    <!-- ============ MOVERS ============ -->
+    <section id="movers">
+      <header class="section-header">
+        <div class="section-eyebrow">Стратегия 2</div>
+        <h2>Движение цен за 24 часа</h2>
+        <p>
+          Только товары с ликвидностью (объём ≥ 10 за 3 дня) и ценой ≥ 5 ex. Аномальные скачки &gt; 500% отфильтрованы как шум API.
+          Растущие — <strong>хорошо для срочной продажи запасов</strong>. Падающие — <strong>хорошо для закупки в задел</strong>, если ты веришь, что они отскочат.
+        </p>
+      </header>
+
+      <div class="movers-grid">
+        <div>
+          <h3>🟢 Топ растущих</h3>
+          <div class="table-wrap"><table id="gainersTable"><thead><tr><th>Предмет</th><th>Категория</th><th class="num">Цена</th><th class="num">24h</th><th class="num">7d</th><th class="num">Vol</th></tr></thead><tbody></tbody></table></div>
+        </div>
+        <div>
+          <h3>🔴 Топ падающих</h3>
+          <div class="table-wrap"><table id="losersTable"><thead><tr><th>Предмет</th><th>Категория</th><th class="num">Цена</th><th class="num">24h</th><th class="num">7d</th><th class="num">Vol</th></tr></thead><tbody></tbody></table></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ LINEAGE ============ -->
+    <section id="lineage">
+      <header class="section-header">
+        <div class="section-eyebrow">Стратегия 3 · Длинная позиция</div>
+        <h2>Lineage Support Gems: buy-list</h2>
+        <p>
+          Самые <strong>дешёвые наследные камни поддержки</strong> прямо сейчас. Колонка <code>×median</code> показывает, во сколько раз медиана пула дороже этого предмета — индикатор «недооценки».
+          Логика гайда: купить на старте лиги, придержать до конца недели 2+, продать когда мета окрепнет.
+        </p>
+        <div id="lineageSummary" class="stats-row"></div>
+      </header>
+
+      <div class="table-wrap">
+        <table id="lineageTable">
+          <thead>
+            <tr><th>Камень</th><th class="num">Цена (ex)</th><th class="num">× медиана</th><th class="num">24h Δ</th><th class="num">7d Δ</th><th class="num">Vol</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ============ CHEAP POOLS ============ -->
+    <section id="cheap-pools">
+      <header class="section-header">
+        <div class="section-eyebrow">Справочник</div>
+        <h2>Дешёвые пулы для входа в перековку</h2>
+        <p>Самые дешёвые предметы в каждой категории, поддерживающей перековку. Это твой <strong>исходник для гэмбла</strong>.</p>
+      </header>
+      <div id="cheapPoolsGrid" class="cards-grid"></div>
+    </section>
+
+    <!-- ============ TOP PRICES ============ -->
+    <section id="top-prices">
+      <header class="section-header">
+        <div class="section-eyebrow">Контекст</div>
+        <h2>Топ-15 предметов лиги по цене</h2>
+        <p>Куда теоретически может вырасти твой инвентарь. К концу лиги — это таргеты.</p>
+      </header>
+      <div class="table-wrap">
+        <table id="topPricesTable">
+          <thead><tr><th>#</th><th>Предмет</th><th>Категория</th><th class="num">Цена (ex)</th><th class="num">Δ div</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ============ HOW ============ -->
+    <section id="how">
+      <header class="section-header">
+        <div class="section-eyebrow">Документация</div>
+        <h2>Как пользоваться этим дашбордом</h2>
+      </header>
+
+      <div class="cards-grid">
+        <div class="card">
+          <h3>В начале дня</h3>
+          <p>
+            Зайди и посмотри 3 раздела по порядку:<br>
+            1) <strong>Перековка</strong> — топ-1 категория сейчас. Если у тебя есть капитал — несколько циклов в неё.<br>
+            2) <strong>Растущие 24h</strong> — есть ли в твоём стэше что-то из списка? Продавай.<br>
+            3) <strong>Падающие 24h</strong> — что закупить дёшево «на отскок».
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>В начале недели</h3>
+          <p>
+            <strong>Lineage buy-list</strong> + <strong>Дешёвые пулы</strong>: пройдись по 3–5 строкам, проверь графики на <a href="https://poe2scout.com" target="_blank">poe2scout</a>, закупи на 5–10% капитала «вдолгую» — на 5–7 день лиги цены вырастут.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>Откуда данные</h3>
+          <p>
+            poe2scout.com API: <code>/api/poe2/Leagues/&lt;league&gt;/Currencies/ByCategory</code>.
+            Каждые 6 часов <strong>GitHub Actions</strong> дёргает 11 категорий, считает ROI, дельты, медианы — и коммитит результат сюда.
+          </p>
+          <p><a id="rawJsonLink" href="data/dashboard.json" target="_blank">Открыть сырой JSON →</a></p>
+        </div>
+
+        <div class="card">
+          <h3>⚠️ Чем НЕ является</h3>
+          <p>
+            <strong>Top-25% ROI</strong> — не «гарантированный профит». Это потолок при попадании в топ-25% пула. На длинной дистанции ROI ≈ <code>Mean ROI</code> (с учётом плохих исходов и нейтральных).
+          </p>
+          <p>
+            Перед серьёзной закупкой <strong>всегда</strong> проверяй график цены на poe2scout — резкий пик за 1–2 дня без объёма обычно откатится.
+          </p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<script src="assets/script.js"></script>
+<script src="assets/dashboard.js"></script>
+</body>
+</html>
