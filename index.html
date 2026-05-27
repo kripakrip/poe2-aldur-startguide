@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Path of Exile 2, патч 0.5 Runes of Aldur — гайд по стартовому капиталу: что делать по часам и дням лиги, чтобы быстрее всего нафармить первые диваны.">
+<title>PoE 2 · Runes of Aldur (0.5) · Стартовый капитал — гайд по часам</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<button class="mobile-toggle" id="mobileToggle" aria-label="Меню">☰</button>
+
+<div class="app">
+
+  <!-- ========== SIDEBAR ========== -->
+  <aside class="sidebar" id="sidebar">
+    <a href="#hero" class="brand">
+      <span class="brand-title">Runes of Aldur</span>
+      <span class="brand-subtitle">Стартовый капитал · 0.5</span>
+    </a>
+    <nav class="nav" id="nav">
+      <a href="#hero"><span class="nav-num">00</span>Главная</a>
+      <a href="#new-in-05"><span class="nav-num">01</span>Что нового в 0.5</a>
+      <a href="#pre-league"><span class="nav-num">02</span>Pre-League (за день)</a>
+      <div class="nav-divider"></div>
+      <a href="#phase-1"><span class="nav-num">03</span>Час 0–6: Кампания</a>
+      <a href="#phase-2"><span class="nav-num">04</span>Час 6–24: На карты</a>
+      <a href="#phase-3"><span class="nav-num">05</span>День 2–3: Раскрутка</a>
+      <a href="#phase-4"><span class="nav-num">06</span>День 4–7: Хайп</a>
+      <a href="#phase-5"><span class="nav-num">07</span>Неделя 2+: Профит</a>
+      <div class="nav-divider"></div>
+      <a href="#strategies"><span class="nav-num">08</span>Каталог стратегий</a>
+      <a href="#prices"><span class="nav-num">09</span>Цены: справочник</a>
+      <a href="#resources"><span class="nav-num">10</span>Ресурсы и ссылки</a>
+      <a href="#gallery"><span class="nav-num">11</span>Галерея скринов</a>
+    </nav>
+    <div class="sidebar-footer">
+      По материалам гайда от <a href="https://t.me/unstoppablebtttw" target="_blank">Unstoppable PoE</a>.<br>
+      Цены и графики обновлены через poe2scout и poe.ninja.
+    </div>
+  </aside>
+
+  <!-- ========== MAIN ========== -->
+  <main>
+
+    <!-- HERO -->
+    <section id="hero" class="hero">
+      <div class="hero-bg"></div>
+      <div class="hero-content">
+        <div class="hero-eyebrow">PATH OF EXILE 2 · PATCH 0.5 · RUNES OF ALDUR</div>
+        <h1>Стартовый капитал<br>с нуля до первых диванов</h1>
+        <p class="hero-lead">
+          Пошаговый план на первые две недели лиги. Что делать буквально по часам — от прохождения актов и продажи камней духа до осквернения гемов и снайпинга трейда. Структурировано из стрим-материалов <strong>Unstoppable PoE</strong> и дополнено актуальными ценами и изменениями патча 0.5.
+        </p>
+        <div class="hero-meta">
+          <div class="meta-item">
+            <div class="meta-label">Старт лиги</div>
+            <div class="meta-value">29 мая · 23:00 МСК</div>
+          </div>
+          <div class="meta-item">
+            <div class="meta-label">Лига</div>
+            <div class="meta-value">Runes of Aldur</div>
+          </div>
+          <div class="meta-item">
+            <div class="meta-label">Курс прошлой лиги</div>
+            <div class="meta-value">1 div ≈ 187 ex</div>
+          </div>
+          <div class="meta-item">
+            <div class="meta-label">Стратегий</div>
+            <div class="meta-value">11 проверенных</div>
+          </div>
+        </div>
+        <div class="hero-cta">
+          <a href="#pre-league" class="btn btn-primary">К плану по дням →</a>
+          <a href="#strategies" class="btn btn-secondary">Все стратегии</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== WHAT'S NEW IN 0.5 ============== -->
+    <section id="new-in-05">
+      <header class="section-header">
+        <div class="section-eyebrow">Обязательно прочитай</div>
+        <h2>Что изменилось в 0.5</h2>
+        <p>Самые важные изменения, которые ломают старые стратегии и открывают новые. Прежний гайд писался под прошлый патч — здесь учтены апдейты Return of the Ancients.</p>
+      </header>
+
+      <div class="callout danger">
+        <div class="callout-title">Рекомбинация удалена</div>
+        <p>
+          <span class="item-currency">Omen of Recombination</span> вычищен из игры — все существующие омены пропали при логине, система <strong>Recombinator отключена</strong>. Если в прошлых лигах ты строил план на рекомбе — забудь. Крафт теперь идёт через новые инструменты: Runesmithing, Verisium-руноковку и докрафт стандартными сферами.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        <div class="card">
+          <h3>Runesmithing &amp; Remnants</h3>
+          <p>В каждой локации появляются <strong>Remnants</strong> с 2–10 слотами под <strong>Runeshapes</strong>. Чем больше слотов используешь — тем рарнее предмет на выходе и тем жёстче волны мобов, которых надо завалить.</p>
+          <p>Убитые мобы дропают <strong class="item-currency">Verisium-металл</strong> — новая валюта.</p>
+        </div>
+
+        <div class="card">
+          <h3>Verisium Runeforging (акт 3)</h3>
+          <p>В 3 акте NPC <strong>Farrow</strong> позволяет апгрейдить <strong>уникалки уровня &lt;55</strong> до эндгейм-баз. Лоулвл уникалки впервые в истории ARPG могут уехать с тобой в красные карты.</p>
+          <div class="callout tip" style="margin: 12px 0 0 0; padding: 12px 14px;">
+            <strong style="color:#e6b450">Что это значит для тебя:</strong> подбирай и сохраняй ВСЕ уникальные дропы низкого уровня, особенно с интересными механиками — Ironbound, Facebreaker и т.п. Часть из них сильно вырастет в цене.
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Runic Ward</h3>
+          <p>Новая защитная прослойка <strong>ниже HP</strong> (ES — выше HP, теперь Ward — ниже). Срабатывает на 1 HP и поглощает урон. Регенится отдельно от жизни.</p>
+          <p>Применяется к шмотке ilvl &lt;55 бесплатно, а на 55+ — за часть armour/evasion/ES. Это <strong>30 новых скиллов</strong> без требований к атрибутам.</p>
+        </div>
+
+        <div class="card">
+          <h3>Genesis Tree &amp; Alloys</h3>
+          <p>Новая система крафта, открывающаяся в эндгейме. Alloys и Fluxes — новые валюты для трансформации модов и сопротивлений. Источник топовых уникалок, типа <span class="item-unique">Absent Amulet</span>.</p>
+        </div>
+
+        <div class="card">
+          <h3>The Fortress (эндгейм)</h3>
+          <p>Полностью переработан эндгейм. Атлас перерисован, добавлены 5 сюжетных линий с реальной целью. Бесплатные пакеты карт и Crusade Mode держат темп между обновлениями.</p>
+        </div>
+
+        <div class="card">
+          <h3>Trade QoL: Ctrl+Alt+Click</h3>
+          <p>В клиенте появился хоткей <kbd>Ctrl+Alt+Click</kbd> по предмету — он сразу открывает поиск на трейде с предзаполненными статами. Огромная экономия времени для снайпинга и докрафта.</p>
+        </div>
+      </div>
+
+      <div class="callout info">
+        <div class="callout-title">Старт и free weekend</div>
+        <p>
+          Старт <strong>29 мая 2026, 13:00 PDT (23:00 МСК)</strong>. С 29 мая по 1 июня — бесплатный уикенд на PC/PS/Xbox. С 29 мая по 12 июня — скидка на стартер-пакет. Лучший момент, чтобы пригласить друга в лигу.
+        </p>
+      </div>
+    </section>
+
+    <!-- ============== PRE-LEAGUE ============== -->
+    <section id="pre-league">
+      <header class="section-header">
+        <div class="section-eyebrow">Phase 00 · За день до старта</div>
+        <h2>Pre-League: подготовка</h2>
+        <p>Чем больше вещей решено заранее — тем меньше ты тратишь время в первые часы лиги, когда каждая минута стоит больше всего.</p>
+      </header>
+
+      <ul class="checklist" id="prelaunchList">
+        <li>Выбран билд league starter (Ice Shot, Twisters, Grenades, Martial Artist, Chaos DoT — все сильные на 0.5)</li>
+        <li>На <a href="https://poe2.ninja" target="_blank">poe2.ninja</a> отмечен билд → выписан leveling-таргет (какие гемы, какой эквип на актах)</li>
+        <li>Лутфильтр поставлен и настроен (см. вторую вкладку оригинального гайда)</li>
+        <li>Аккаунт на <a href="https://discord.gg/bRw4dQxvDZ" target="_blank">TFT Discord</a> создан, пройдена верификация (для bulk-продаж)</li>
+        <li>Закладки в браузере: <a href="https://poe2scout.com" target="_blank">poe2scout</a>, <a href="https://poe.ninja/poe2/economy" target="_blank">poe.ninja/poe2</a>, официальный трейд</li>
+        <li>Заготовлены 10–15 поисковых ссылок (живой поиск под jewels/армор без рун/посохи) — фильтры из этого гайда</li>
+        <li>Сделана разминка пальцев: ALT, Ctrl+Click, Shift+Click, F9 (relog), горячие на колесо</li>
+        <li>Стрим/гайды по билду закачаны/закладки сделаны, чтобы во время прохождения не отвлекаться</li>
+        <li>Подключился к голосовому чату с тиммейтами / стриму гайдера на 2-м мониторе</li>
+        <li>В клиенте стоит <strong>~90% масштаба интерфейса</strong> (рекомендация автора оригинального гайда)</li>
+      </ul>
+
+      <div class="callout warn">
+        <div class="callout-title">Главное правило старта</div>
+        <p>
+          <strong>В первые 6–8 часов забей на крафт и трейд</strong>. Только прохождение акта → выход на T15 карты. Эндгейм начинается с T15, и хорошие базы предметов начинают падать именно там (на T12 уже падают, но реже).
+        </p>
+        <p>
+          Любой час, потраченный на крафт вместо прокачки, в первые 24 часа стоит в разы больше, чем тот же час на 5-й день.
+        </p>
+      </div>
+    </section>
+
+    <!-- ============== PHASE 1 ============== -->
+    <section id="phase-1">
+      <header class="section-header">
+        <div class="section-eyebrow">Phase 01 · Час 0–6 от старта</div>
+        <h2>Кампания: Акты 1–4</h2>
+      </header>
+
+      <div class="phase">
+        <div class="phase-marker"></div>
+        <div class="phase-time">Час 0–3 · Акты 1–2</div>
+        <h3>Просто гони сюжет</h3>
+        <p>
+          Никаких глубоких остановок. Подбирай только то, что лежит «в трёх клетках» от тебя или подсвечено лутфильтром как высокий приоритет. Цель — перевалить акт 4 и открыть НПС <strong>Анге</strong>, которая принимает камни духа.
+        </p>
+        <p>На что обращать внимание прямо во время актов:</p>
+        <ul class="guide-list">
+          <li><strong class="item-gem">Камень духа 8-го уровня (Uncut Spirit Gem lvl 8)</strong> — топ-приоритет дропа. В прошлой лиге держался <strong>10 400+ ex</strong> на конце (~55 div). На <strong>старте лиги</strong> их продают сильно дешевле, но 15–30 экзов за каждый — реальная цена в первый день.</li>
+          <li>Падают на уровнях локаций 27–29: <em>Захоронённые святилища / Дешар / Пути скорби</em>. Можно пару раз ресетнуть локацию, если знаешь свой билд.</li>
+          <li>С локации 28+ (Дешар → Шпили) начинают падать <strong>базы оружия 28+ уровня</strong> с более высоким уроном — резетнуть и проверить, нет ли апгрейда под себя или под продажу.</li>
+        </ul>
+        <figure class="fig">
+          <img src="images/image1.png" loading="lazy" alt="Скриншот цены камня духа 8-го уровня">
+          <figcaption>Цена Uncut Spirit Gem lvl 8 (данные из прошлой лиги, poe2scout)</figcaption>
+        </figure>
+      </div>
+
+      <div class="phase">
+        <div class="phase-marker"></div>
+        <div class="phase-time">Час 3–6 · Акт 3 · Verisium Runeforging</div>
+        <h3>НОВОЕ в 0.5: руноковка уникалок</h3>
+        <p>
+          В 3 акте появляется NPC <strong>Farrow</strong> — он даёт <strong>Verisium Runeforging</strong>: можно прокачивать уникалки уровня &lt;55 до эндгейм-баз.
+        </p>
+        <div class="callout success">
+          <div class="callout-title">Что делать с этим</div>
+          <p>
+            <strong>Не выкидывай низкоуровневые уникалки.</strong> Сохраняй любые с интересными мехами: <span class="item-unique">Ironbound</span>, <span class="item-unique">Facebreaker</span>, <span class="item-unique">Хор бури (Storm Choir)</span> и т.д. Они либо нужны самому в эндгейм, либо вырастут в цене после прокачки.
+          </p>
+        </div>
+      </div>
+
+      <div class="phase">
+        <div class="phase-marker"></div>
+        <div class="phase-time">Час 6+ · Акт 4 · Анге</div>
+        <h3>Первая монетизация: продажа камней духа</h3>
+        <p>
+          Как только открыл Анге (4 акт) — <strong>продай все камни духа 8-го уровня</strong>. Это твоя первая ликвидность. Реалистично: 2–3 камня × 15–30 ex = <strong>30–90 ex стартового бюджета</strong>.
+        </p>
+        <p>На эти деньги ты можешь сразу:</p>
+        <ul class="guide-list">
+          <li>Купить начальный эквип под билд (1–2 крафтовые сферы возвышения)</li>
+          <li>Инвестировать в уникалки под осквернение (см. День 4–7)</li>
+          <li>Начать флип через Анге (валюта/крафт-материалы)</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============== PHASE 2 ============== -->
+    <section id="phase-2">
+      <header class="section-header">
+        <div class="section-eyebrow">Phase 02 · Час 6–24 от старта</div>
+        <h2>Выход на карты + первые подработки</h2>
+      </header>
+
+      <p>
+        После актов цель — добежать до T1 карт и постепенно повышать. Параллельно с прокачкой запускаются <strong>две низкоэнергетические схемы заработка</strong>, которые не требуют ни знаний крафта, ни кучи валюты.
+      </p>
+
+      <h3 style="margin-top: 36px;">Схема A · Перепродажа поясов <span class="item-normal">Тяжелый ремень</span></h3>
+      <div class="metrics" style="grid-template-columns: repeat(4, 1fr); max-width: 720px;">
+        <div><div class="metric-label">Вход</div><div class="metric-value">1–2 div</div></div>
+        <div><div class="metric-label">ROI</div><div class="metric-value">30–50%</div></div>
+        <div><div class="metric-label">Время</div><div class="metric-value">~15 мин/цикл</div></div>
+        <div><div class="metric-label">Риск</div><div class="metric-value">Минимальный</div></div>
+      </div>
+      <p>
+        Покупаешь обычные (белые) <strong>«Тяжелый ремень»</strong> на трейде за 4–15 ex, продаёшь за +30–35% наценки тем, кто ленится бегать сам. К концу 2-й недели лиги они доходят до 40–50 ex (≈0.4 div) за штуку.
+      </p>
+      <div class="callout danger">
+        <div class="callout-title">«Краболовка» — будь осторожен</div>
+        <p>
+          Скамеры пихают рядом с белыми поясами магические/редкие пояса и подменяют цену с «10 экзов» на «10 <strong>бож.сфер</strong>» (это в ~200 раз дороже). Защита:
+        </p>
+        <ul class="guide-list" style="margin-top: 8px;">
+          <li>В поиске добавляй regex <code>Обычн|Возвыш</code> (RU) или <code>Norm|Exalted</code> (EN) — подсветит только нормальные базы с ценой в ex</li>
+          <li>Перед покупкой всегда сверяй валюту в окне обмена. Игра подсветит подозрительную сделку — это твоё спасение</li>
+          <li>Ставь цену <strong>на 1–2 ex выше</strong> минимальной — не воюй с ботами за 1 экз</li>
+        </ul>
+      </div>
+
+      <figure class="fig">
+        <img src="images/image10.png" loading="lazy" alt="Пример торгового поиска по поясам">
+        <figcaption>Пример настройки трейд-поиска под перепродажу поясов</figcaption>
+      </figure>
+
+      <h3 style="margin-top: 40px;">Где сливать пояса</h3>
+      <ol class="guide-list">
+        <li><strong>TFT Discord:</strong> канал <code>bulk bases - wts</code>. Зайди в <em>How to Verify</em>, пройди мини-верификацию — откроются bulk-каналы. Постишь свои базы пастой (пример на скрине)</li>
+        <li><strong>Внутриигровой чат торговли</strong> — будут троллить из-за наценки, но покупатели найдутся</li>
+        <li><strong>Телеграм-канал сообщества</strong>: <a href="https://t.me/Pathofexile2communitysng" target="_blank">t.me/Pathofexile2communitysng</a></li>
+      </ol>
+
+      <hr>
+
+      <h3>Схема B · Снайпинг через <kbd>ALT</kbd></h3>
+      <p>
+        В трейде нажимай <strong>ALT</strong>, наведя на интересующий предмет — увидишь, кто и за сколько его выкупает. Это позволяет ставить <strong>обратные ордера</strong> на нужные тебе ядра душ, эссенции или крафт-валюту.
+      </p>
+      <p>
+        Пример: <span class="item-currency">Разбойничий катализатор</span> на старте лиги стоит 5–15 ex. Ты нажимаешь ALT, видишь по каким ценам идёт выкуп — и ставишь <strong>кратную нулю цифру</strong>: 30, 40, 100. Ждёшь, пока выкупят по более выгодной цене.
+      </p>
+      <p>
+        Для понимания закономерностей пользуйся <a href="https://poe2scout.com" target="_blank">poe2scout</a> — он показывает время суток, динамику популярности крафта и т.д.
+      </p>
+    </section>
+
+    <!-- ============== PHASE 3 ============== -->
+    <section id="phase-3">
+      <header class="section-header">
+        <div class="section-eyebrow">Phase 03 · День 2–3</div>
+        <h2>Раскрутка через перековку</h2>
+      </header>
+
+      <p>
+        После актов один из самых банальных способов — <strong>перековка ядер душ</strong>: 3 дешёвых одинаковых ядра → шанс получить одно из топ-исходов. На этом этапе твоя задача — за день-два сделать первые <strong>10–15 диванов</strong> для крафта.
+      </p>
+
+      <h3>Перековка ядер душ</h3>
+      <div class="metrics" style="grid-template-columns: repeat(4, 1fr); max-width: 720px;">
+        <div><div class="metric-label">Вход</div><div class="metric-value">~120 ex</div></div>
+        <div><div class="metric-label">ROI</div><div class="metric-value">высокий</div></div>
+        <div><div class="metric-label">Шанс</div><div class="metric-value">5–6 «дорогих» исходов</div></div>
+        <div><div class="metric-label">Риск</div><div class="metric-value">Средний</div></div>
+      </div>
+      <p>
+        Берёшь 3 одинаковых дешёвых ядра (например, <span class="item-currency">Ядро Топотанте</span> по 40 ex × 3 = 120 ex), кидаешь в <strong>Перековку</strong>. В пуле «дорогих» исходов:
+      </p>
+      <div class="cards-grid">
+        <div class="card"><h3>Скорость атаки</h3><p>Универсальный стат для большинства билдов</p></div>
+        <div class="card"><h3>Дух</h3><p>Бафнутый ресурс под минионов и ауры</p></div>
+        <div class="card"><h3>Крит урон</h3><p>Ядро Тикабы — пример в гайде, ~17 div на пике</p></div>
+        <div class="card"><h3>% Мана / % HP / Заряды</h3><p>Стабильно дорогие модификаторы под зерки и танков</p></div>
+      </div>
+
+      <figure class="fig">
+        <img src="images/image27.png" loading="lazy" alt="Скриншот перековки ядер душ">
+        <figcaption>Реальный пример из гайда: 3 ядра Топотанте → ядро Тикабы (крит урон) ~17 div</figcaption>
+      </figure>
+
+      <div class="callout warn">
+        <div class="callout-title">Когда останавливаться</div>
+        <p>
+          Перековка хороша <strong>для раскрутки начального бюджета</strong>. Заниматься этим на постоянной основе — менее эффективно, чем крафт вещей. Это инструмент быстро сделать первые 10–15 диванов, дальше переходи к крафту или живому поиску.
+        </p>
+      </div>
+
+      <h3 style="margin-top: 36px;">Перековка эссенций</h3>
+      <p>
+        Та же логика: 3 одинаковые <strong>совершенные эссенции</strong> → шанс получить дорогую. Минус по сравнению с ядрами — меньше «дорогих» исходов. Если на старте лиги все эссенции дешёвые и количество дорогих маленькое — <strong>выгода минимальна</strong>.
+      </p>
+      <p>
+        В отличие от ядер душ, у которых <strong>5–6 дорогих исходов</strong> (Дух, Скорость атаки, крит урон, % мана, % здоровье), у эссенций пул победителей сильно уже.
+      </p>
+      <figure class="fig">
+        <img src="images/image28.png" loading="lazy" alt="Скриншот эссенций">
+        <figcaption>Пример перековки совершенных эссенций</figcaption>
+      </figure>
+
+      <h3 style="margin-top: 36px;">Перековка катализаторов (опционально)</h3>
+      <p>
+        Если у тебя <strong>уже валяются</strong> дешёвые катализаторы (фармил с Дерева разлома или Ксешта) — можно прокликать их и получить дорогие. Главный минус — <strong>стоимость в золоте</strong>. Не покупай катализаторы с трейда специально под перековку.
+      </p>
+      <p>В пуле как минимум 5–6 «дорогих» исходов — для перековки этого достаточно.</p>
+    </section>
+
+    <!-- ============== PHASE 4 ============== -->
+    <section id="phase-4">
+      <header class="section-header">
+        <div class="section-eyebrow">Phase 04 · День 4–7</div>
+        <h2>Хайп: продажа запасов + Lineage</h2>
+      </header>
+
+      <p>
+        На 5–7 день лиги начинается <strong>волна игроков на T15 карт</strong>. Спрос на эндгейм-аффиксы резко вырастает — это пик цен на ядра душ с топ-статами и Lineage камни поддержки. Твоя задача — продать всё, что закупил в первые дни.
+      </p>
+
+      <h3>Стратегия по ядрам душ</h3>
+      <p>
+        В первые дни ты можешь смело покупать топ-ядра по 5–10 ex и ставить на выкуп цену <strong>30–40 ex</strong>. Когда волна спроса дойдёт — все твои выкупятся за одну ночь.
+      </p>
+      <div class="callout info">
+        <div class="callout-title">Почему именно 5–7 день</div>
+        <p>
+          Скачки цен обусловлены: <strong>временем суток, количеством на рынке, резким спросом</strong> очередной волны игроков, выходящих на T15 + хайпом конкретных билдов. Если билд А станет метой — ядро под него подорожает в 5–10 раз за сутки.
+        </p>
+      </div>
+
+      <hr>
+
+      <h3>Lineage / Наследные камни поддержки</h3>
+      <p>
+        Lineage gems — отдельный класс популярных и дорогих камней поддержки, которые улетают в небеса в зависимости от меты.
+      </p>
+
+      <h4 style="margin-top: 24px;">Пример из прошлой лиги: <span class="item-gem">Свирепость Ригвальда (Rigwald's Ferocity)</span></h4>
+      <p>
+        Камень нужен под популярные Twister-билды (требует Whirlwind Slash с большой скоростью атаки на одном комплекте оружия). В реалиях патча 0.5 этот камень мог уехать с <strong>1–2 div на старте</strong> до <strong>10–20+ div к середине лиги</strong>.
+      </p>
+      <p>
+        К концу прошлой лиги (Fate of the Vaal) Ригвальд держался в районе <strong>75 000 ex</strong> по poe2scout — это ~400 div.
+      </p>
+
+      <div class="callout tip">
+        <div class="callout-title">Как выбирать Lineage под спекуляцию</div>
+        <p>
+          1. Смотри <strong>топ-билды</strong> на <a href="https://poe2.ninja/poe2/builds" target="_blank">poe2.ninja/builds</a> — какие именно фигурируют в первые 24 часа.<br>
+          2. Открой графики камней на poe2scout — какие <strong>сильно дешевле</strong> своих исторических пиков.<br>
+          3. Учитывай мету: в прошлой лиге все ломанулись на Ice Shot и Poison PF, поэтому Ригвальд (под Twister) рос медленнее остальных топов.<br>
+          4. Подобные камни — крутая <strong>защита от инфляции</strong>: даже если ты не угадаешь хайп, к концу лиги они стоят дороже старта.
+        </p>
+      </div>
+
+      <h3 style="margin-top: 36px;">Перековка уникалок 19→20</h3>
+      <p>
+        Один из чистых методов перековки — <strong>уникалки со встроенными умениями</strong>. Классика — амулет <span class="item-unique">Хор бури (Storm Choir)</span>.
+      </p>
+      <p>Схема:</p>
+      <ol class="guide-list">
+        <li>Покупаешь / выбиваешь с Ксешта 3 амулета 19-го уровня (стартовая цена ~5 ex каждый = 15 ex за три)</li>
+        <li>Кидаешь в Перековку</li>
+        <li>С небольшим шансом получаешь <strong>амулет 20-го уровня</strong></li>
+      </ol>
+      <p>
+        В рефах гайда: база 19-го уровня = 5 div к середине лиги, амулет 20-го уровня = <strong>500 div</strong>. Это значит 1 удачная перековка окупает 60–150 неудачных. <strong>На старте</strong> разрыв меньше, но всё ещё профитный.
+      </p>
+
+      <div class="callout warn">
+        <div class="callout-title">Правило проверки маржи</div>
+        <p>
+          <strong>Всегда</strong> перед перековкой проверь цены 19-го и 20-го уровня. Если разница в <strong>60–70 раз</strong> — смысл есть. Если в <strong>10–20 раз</strong> — этого мало, отказывайся от схемы и переключайся на что-то другое.
+        </p>
+      </div>
+    </section>
+
+    <!-- ============== PHASE 5 ============== -->
+    <section id="phase-5">
+      <header class="section-header">
+        <div class="section-eyebrow">Phase 05 · Неделя 2+</div>
+        <h2>Стабильный профит: осквернение и крафт</h2>
+      </header>
+
+      <p>
+        К началу второй недели у тебя должно быть <strong>50+ диванов</strong> рабочего капитала. С ними открываются основные «дойные» стратегии лиги.
+      </p>
+
+      <h3>Осквернение камней умений</h3>
+      <div class="metrics" style="grid-template-columns: repeat(4, 1fr); max-width: 720px;">
+        <div><div class="metric-label">Вход на цикл</div><div class="metric-value">~70 ex/гем</div></div>
+        <div><div class="metric-label">ROI на 100 гемов</div><div class="metric-value">~37%</div></div>
+        <div><div class="metric-label">Идеальный исход</div><div class="metric-value">~17% шанс</div></div>
+        <div><div class="metric-label">Темп</div><div class="metric-value">20–30 гемов/час</div></div>
+      </div>
+
+      <h4>Что нужно</h4>
+      <ul class="guide-list">
+        <li><strong class="item-currency">Призма камнереза</strong> (Gemcutter's Prism) ×4 — поднять качество до 20% (~2 ex/шт = 8 ex)</li>
+        <li><strong class="item-currency">Совершенная сфера златокузнеца</strong> (Perfect Jeweller's Orb) ×1 — ~57 ex на старте</li>
+        <li><strong class="item-currency">Сфера Ваал</strong> ×1 — копейки, 0.5–1 ex</li>
+      </ul>
+
+      <div class="callout success">
+        <div class="callout-title">Важно в 0.5: Предзнаменования осквернения УБРАНЫ</div>
+        <p>
+          Раньше «Omens of Corruption» убирали нейтральный исход (когда с гемом ничего не происходит). В патче 0.5 их вычистили — теперь у нас <strong>всегда есть нейтральный исход</strong>, что слегка меняет матожидание, но не сильно.
+        </p>
+      </div>
+
+      <h4 style="margin-top: 24px;">6 исходов осквернения (по ~16.7% каждый)</h4>
+      <div class="cards-grid">
+        <div class="card"><div class="card-meta"><span class="tag tag-tier-1">Идеал</span></div><h3>+1 уровень умения</h3><p>~6–12 div за гем 5/5 слотов с качеством на старте лиги</p></div>
+        <div class="card"><div class="card-meta"><span class="tag tag-tier-2">Хорошо</span></div><h3>+качество до 23%</h3><p>Можно докинуть «Кристаллизованную порчу» — шанс на +1 уровень. Риск: гем может полностью разрушиться</p></div>
+        <div class="card"><div class="card-meta"><span class="tag tag-neutral">Нейтрал</span></div><h3>Ничего не происходит</h3><p>Выставляешь обратно — отбиваешь часть инвестиций</p></div>
+        <div class="card"><div class="card-meta"><span class="tag tag-tier-5">Плохо</span></div><h3>−1 слот поддержки</h3><p>Очень плохо</p></div>
+        <div class="card"><div class="card-meta"><span class="tag tag-tier-5">Плохо</span></div><h3>−1 уровень умения</h3><p>Очень плохо</p></div>
+        <div class="card"><div class="card-meta"><span class="tag tag-tier-4">Плохо</span></div><h3>−качество</h3><p>Просто слив</p></div>
+      </div>
+
+      <h4 style="margin-top: 28px;">Расчёт на 100 камней</h4>
+      <div class="table-wrap" style="max-width: 720px;">
+        <table>
+          <thead>
+            <tr><th>Исход</th><th class="num">Кол-во</th><th class="num">Деньги</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Идеал (+1)</td><td class="num">17 шт</td><td class="num price-ex">+3 400 ex</td></tr>
+            <tr><td>Окуп / нейтрал / +кач</td><td class="num">~33 шт</td><td class="num price-ex">+2 640 ex</td></tr>
+            <tr><td>Фейлы (3 плохих исхода)</td><td class="num">~50 шт</td><td class="num price-ex" style="color:#e08080">−3 500 ex</td></tr>
+            <tr style="background: rgba(95, 168, 80, 0.08);"><td><strong>Чистая прибыль</strong></td><td class="num"></td><td class="num price-div"><strong>+2 540 ex ≈ 31.75 div</strong></td></tr>
+            <tr><td>Инвестиции</td><td class="num">100 циклов</td><td class="num">7 000 ex ≈ 87.5 div</td></tr>
+            <tr style="background: rgba(230, 180, 80, 0.08);"><td><strong>ROI</strong></td><td class="num"></td><td class="num price-div"><strong>~37%</strong></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="font-size: 14px; color: #8b7355; margin-top: 6px;">
+        Условия: 80 ex за 1 div, продажа идеальных исходов по 6 div «грязными». В отдельные этапы лиги чистая прибыль скачет от 20 до 60%.
+      </p>
+
+      <div class="callout tip">
+        <div class="callout-title">Хитрость с 20-м уровнем</div>
+        <p>
+          <strong>Не покупай 20-й гем сразу.</strong> Берёшь любой подходящий (даже 15-й — они часто падают на T15 картах и стоят дёшево), осквернаешь, и <strong>только при удаче</strong> докачиваешь до 20-го уровня. Так экономишь ~150 ex (стоимость доп. сфер) на каждом неудачном осквернении.
+        </p>
+      </div>
+
+      <div class="callout warn">
+        <div class="callout-title">Что осквернать</div>
+        <p>
+          Смотри на трейде, какие <strong>гемы 21-го уровня</strong> сейчас самые дорогие. Это всегда метовые билды (poe2.ninja → Build → отсортируй по % популярности). Выбирай самый дорогой из топ-метовых — это поднимает маржу с каждого удачного исхода.
+        </p>
+      </div>
+
+      <hr>
+
+      <h3>Живой поиск (Live Search) — снайпинг трейда</h3>
+      <p>
+        Это уже более продвинутая стратегия — нужны скорость, понимание ценности статов, базовое знание крафта. Но даже на старте лиги один удачный снайп может покрыть день фарма.
+      </p>
+
+      <h4>Пример 1: <span class="item-magic">Волшебные самоцветы (Voltaic Jewels)</span></h4>
+      <p>
+        В фильтре поиска ставишь сверху <strong>Количество = 1</strong> и в суффиксах перечисляешь нужные статы (например, разные модификаторы крита). Алгоритм будет искать <strong>один из</strong> указанных. Жмёшь <em>Включить поиск в реальном времени</em> → ждёшь звукового оповещения.
+      </p>
+      <p>
+        Готовая ссылка-фильтр (поменяй лигу <code>Fate of the Vaal</code> на <code>Aldur</code> в URL):
+      </p>
+      <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/LgbPkq9Vhn" target="_blank">
+        <span class="trade-link-title">Самоцветы (крит-снайпинг)</span>
+        <span class="trade-link-arrow">trade →</span>
+      </a>
+
+      <p>
+        Нашёл дешёвый самоцвет за 5–10 ex? Вот что делать:
+      </p>
+      <ol class="guide-list">
+        <li>Кидаешь <span class="item-currency">сферу царей (Vaal Orb)</span></li>
+        <li>Если третий стат выпал бесполезным — <span class="item-currency">сфера отмены</span>, либо просто откинуть chaos orb (если отмена дорогая), либо exalt и продать</li>
+        <li>Цель: 4/4 полезных стата — тогда самоцвет уходит дорого</li>
+      </ol>
+      <p>То же самое работает с самоцветами Сехемы.</p>
+
+      <h4 style="margin-top: 28px;">Пример 2: Шмотки без качества и рун (докрафт)</h4>
+      <p>
+        Ищешь редкие предметы, у которых уже есть 4 хороших стата, но <strong>нет качества и не вставлены руны</strong>. Кидаешь:
+      </p>
+      <ul class="guide-list">
+        <li>Двойную <span class="item-currency">сферу возвышения</span> в суффикс → 2 резиста + отклон / ускорение энергощита / 3 резиста</li>
+        <li>Качество до 20%</li>
+        <li>Делаешь дырки → вставляешь руны железа</li>
+        <li>Продаёшь</li>
+      </ul>
+      <div class="callout warn">
+        <div class="callout-title">Всегда считай маржу ДО манипуляций</div>
+        <p>Перед качеством и рунами — посмотри, сколько потенциально будет стоить готовый предмет, чтобы не зря тратить валюту.</p>
+      </div>
+
+      <h4>Готовые фильтры из гайда (поменяй <code>Fate of the Vaal</code> на <code>Aldur</code>)</h4>
+      <div style="display: grid; gap: 6px; margin: 12px 0;">
+        <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6bPn9QdH5" target="_blank"><span class="trade-link-title">Нагрудники: Уклон+Энергощит</span><span class="trade-link-arrow">trade →</span></a>
+        <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/veaYvOkBtE" target="_blank"><span class="trade-link-title">Нагрудники: Энергощит</span><span class="trade-link-arrow">trade →</span></a>
+        <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/eRKbDzE6sL" target="_blank"><span class="trade-link-title">Нагрудники: Уклонение</span><span class="trade-link-arrow">trade →</span></a>
+        <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/V5QGpbXXtp" target="_blank"><span class="trade-link-title">Шлемы: Энергощит</span><span class="trade-link-arrow">trade →</span></a>
+        <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/X3bPrWeBuP" target="_blank"><span class="trade-link-title">Сапоги: Энергощит</span><span class="trade-link-arrow">trade →</span></a>
+        <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/PP8GaLb7cL" target="_blank"><span class="trade-link-title">Сапоги: Уклон+Энергощит</span><span class="trade-link-arrow">trade →</span></a>
+        <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/LgbPkr8Gcn" target="_blank"><span class="trade-link-title">Перчатки: Энергощит</span><span class="trade-link-arrow">trade →</span></a>
+        <a class="trade-link" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/lg40DZl2iV" target="_blank"><span class="trade-link-title">Кольца: урон к атакам, без качества</span><span class="trade-link-arrow">trade →</span></a>
+      </div>
+
+      <hr>
+
+      <h3>Крафт белых баз с пола → продажа синих</h3>
+      <p>
+        В 0.5 GGG порезали шансы выпадения 3-х синих сфер и уровни модификаторов 2-х сфер — но докрафчивать с пола всё ещё прибыльно.
+      </p>
+      <p>
+        Цикл: <strong>Сфера превращения → проверка стата → если т1-т2 → сфера усиления → доводка или продажа</strong>.
+      </p>
+      <h4>Хорошие синие комбинации</h4>
+      <div class="cards-grid">
+        <div class="card">
+          <h3>Амулеты</h3>
+          <p>+3 к любым умениям + дух</p>
+          <a class="trade-link" style="margin-top:10px" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/eRKbbE04hL" target="_blank"><span class="trade-link-title">Фильтр</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>Кольца</h3>
+          <p>+к атакам (желательно т1)</p>
+          <a class="trade-link" style="margin-top:10px" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLbGGbDeCw" target="_blank"><span class="trade-link-title">Фильтр</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>Жезлы / Посохи</h3>
+          <p>+ к умениям (метовые стихии). В новом сезоне популярны билды на растениях → посохи с +физ чар будут в спросе.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/X3bamn8RfP" target="_blank"><span class="trade-link-title">Фильтр</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>Шлемы / Броня / Перчатки</h3>
+          <p>Аддитив брони/ES/уклона + сопрот / редкость / отклонение</p>
+          <a class="trade-link" style="margin-top:10px" href="https://ru.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6bPPRJgC5" target="_blank"><span class="trade-link-title">Фильтр</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>Оружие</h3>
+          <p>% физ урон (хотя бы т2) + крит шанс / скорость атаки / + к умениям. Иногда хватает одного % физ урона.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== STRATEGIES ============== -->
+    <section id="strategies">
+      <header class="section-header">
+        <div class="section-eyebrow">Каталог</div>
+        <h2>11 стратегий: сравнительная таблица</h2>
+        <p>Все способы из гайда, ранжированные по сложности, времени применения и ожидаемой доходности. Используй как чек-лист.</p>
+      </header>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Стратегия</th>
+              <th>Когда</th>
+              <th>Вход</th>
+              <th>ROI</th>
+              <th>Сложность</th>
+              <th>Риск</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td><strong>Продажа Spirit Gem lvl 8</strong> с актов</td>
+              <td>Час 6+</td>
+              <td>0</td>
+              <td>чистый</td>
+              <td><span class="tag tag-tier-1">Низкая</span></td>
+              <td><span class="tag tag-tier-1">Нет</span></td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td><strong>Перепродажа поясов «Тяжелый ремень»</strong></td>
+              <td>День 1–14</td>
+              <td>1–2 div</td>
+              <td>30–50%/цикл</td>
+              <td><span class="tag tag-tier-1">Низкая</span></td>
+              <td><span class="tag tag-tier-2">Скам-риск</span></td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td><strong>ALT-снайпинг ставок</strong> на катализаторы/омены</td>
+              <td>День 1+</td>
+              <td>от 50 ex</td>
+              <td>20–80%</td>
+              <td><span class="tag tag-tier-2">Средняя</span></td>
+              <td><span class="tag tag-tier-2">Низкий</span></td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td><strong>Перековка ядер душ</strong></td>
+              <td>День 2–3</td>
+              <td>~120 ex/цикл</td>
+              <td>средний+</td>
+              <td><span class="tag tag-tier-2">Средняя</span></td>
+              <td><span class="tag tag-tier-3">Средний</span></td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td><strong>Перековка эссенций</strong></td>
+              <td>День 2–3</td>
+              <td>низкий</td>
+              <td>низкий-средний</td>
+              <td><span class="tag tag-tier-2">Средняя</span></td>
+              <td><span class="tag tag-tier-3">Средний</span></td>
+            </tr>
+            <tr>
+              <td>6</td>
+              <td><strong>Перековка катализаторов</strong> (фарм-only)</td>
+              <td>День 3+</td>
+              <td>0 (фарм)</td>
+              <td>высокий*</td>
+              <td><span class="tag tag-tier-3">Средняя</span></td>
+              <td><span class="tag tag-tier-2">Низкий</span></td>
+            </tr>
+            <tr>
+              <td>7</td>
+              <td><strong>Закупка ядер душ в задел</strong></td>
+              <td>День 1–3 → продажа день 5–7</td>
+              <td>от 50 ex</td>
+              <td>200–400%</td>
+              <td><span class="tag tag-tier-2">Средняя</span></td>
+              <td><span class="tag tag-tier-3">Средний</span></td>
+            </tr>
+            <tr>
+              <td>8</td>
+              <td><strong>Перековка уникалок 19→20</strong> (Хор бури и т.п.)</td>
+              <td>День 4+</td>
+              <td>~15 ex/попытка</td>
+              <td>высокий</td>
+              <td><span class="tag tag-tier-3">Средняя+</span></td>
+              <td><span class="tag tag-tier-4">Высокий</span></td>
+            </tr>
+            <tr>
+              <td>9</td>
+              <td><strong>Lineage gems на ранний выкуп</strong></td>
+              <td>День 2–5 → выход неделя 2+</td>
+              <td>1–2 div</td>
+              <td>500–1000%</td>
+              <td><span class="tag tag-tier-3">Средняя+</span></td>
+              <td><span class="tag tag-tier-3">Средний</span></td>
+            </tr>
+            <tr>
+              <td>10</td>
+              <td><strong>Осквернение камней умений</strong></td>
+              <td>Неделя 2+</td>
+              <td>87 div/100 циклов</td>
+              <td>~37%</td>
+              <td><span class="tag tag-tier-4">Высокая</span></td>
+              <td><span class="tag tag-tier-3">Средний</span></td>
+            </tr>
+            <tr>
+              <td>11</td>
+              <td><strong>Live-search snipe</strong> jewels + докрафт</td>
+              <td>Неделя 1+</td>
+              <td>10–50 ex/предмет</td>
+              <td>200–500% за удачу</td>
+              <td><span class="tag tag-tier-5">Высокая</span></td>
+              <td><span class="tag tag-tier-3">Средний</span></td>
+            </tr>
+            <tr>
+              <td>12</td>
+              <td><strong>Крафт белых баз с пола → синие</strong></td>
+              <td>Неделя 1+</td>
+              <td>фарм + 2–5 ex</td>
+              <td>средний</td>
+              <td><span class="tag tag-tier-3">Средняя</span></td>
+              <td><span class="tag tag-tier-2">Низкий</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="font-size: 13px; color: #8b7355;">* зависит от того, насколько дешёво ты получил исходники.</p>
+    </section>
+
+    <!-- ============== PRICES REFERENCE ============== -->
+    <section id="prices">
+      <header class="section-header">
+        <div class="section-eyebrow">Реальные данные</div>
+        <h2>Справочник цен (Fate of the Vaal, конец прошлой лиги)</h2>
+        <p>Снято с poe2scout API. Это <strong>конец прошлой лиги</strong> — на старте Aldur цены будут в разы ниже. Используй как ориентир: что обычно сколько стоит на пике и какие категории дают самые большие умножения.</p>
+      </header>
+
+      <div class="stats-row">
+        <div class="stat"><span class="stat-num">187</span><div class="stat-label">1 div в exalted</div></div>
+        <div class="stat"><span class="stat-num">26.7</span><div class="stat-label">1 chaos в exalted</div></div>
+        <div class="stat"><span class="stat-num">7</span><div class="stat-label">1 chaos = ex (база)</div></div>
+        <div class="stat"><span class="stat-num">93.5</span><div class="stat-label">Perfect Ex Orb (ex)</div></div>
+      </div>
+
+      <h3 style="margin-top: 32px;">Топ Lineage Support Gems</h3>
+      <div class="table-wrap" style="max-width: 720px;">
+        <table>
+          <thead><tr><th>Камень</th><th class="num">Цена (ex)</th><th class="num">≈ div</th></tr></thead>
+          <tbody>
+            <tr><td><span class="item-gem">Garukhan's Resolve</span></td><td class="num price-ex">140 063</td><td class="num price-div">749</td></tr>
+            <tr><td><span class="item-gem">Uul-Netol's Embrace</span></td><td class="num price-ex">103 504</td><td class="num price-div">554</td></tr>
+            <tr><td><span class="item-gem">Uhtred's Augury</span></td><td class="num price-ex">101 640</td><td class="num price-div">544</td></tr>
+            <tr><td><span class="item-gem">Rigwald's Ferocity</span> <em style="color:#8b7355">(пример из гайда)</em></td><td class="num price-ex">75 086</td><td class="num price-div">401</td></tr>
+            <tr><td><span class="item-gem">Uhtred's Omen</span></td><td class="num price-ex">61 213</td><td class="num price-div">327</td></tr>
+            <tr><td><span class="item-gem">Rakiata's Flow</span></td><td class="num price-ex">50 313</td><td class="num price-div">269</td></tr>
+            <tr><td><span class="item-gem">Tul's Stillness</span></td><td class="num price-ex">38 417</td><td class="num price-div">205</td></tr>
+            <tr><td><span class="item-gem">Esh's Radiance</span></td><td class="num price-ex">26 942</td><td class="num price-div">144</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3 style="margin-top: 32px;">Топ Soul Cores (Ядра душ)</h3>
+      <div class="table-wrap" style="max-width: 720px;">
+        <table>
+          <thead><tr><th>Ядро</th><th class="num">Цена (ex)</th><th class="num">≈ div</th></tr></thead>
+          <tbody>
+            <tr><td><span class="item-currency">Xopec's Soul Core of Power</span></td><td class="num price-ex">2 069</td><td class="num price-div">11.1</td></tr>
+            <tr><td><span class="item-currency">Opiloti's Soul Core of Assault</span></td><td class="num price-ex">1 474</td><td class="num price-div">7.9</td></tr>
+            <tr><td><span class="item-currency">Soul Core of Quipolatl</span></td><td class="num price-ex">1 381</td><td class="num price-div">7.4</td></tr>
+            <tr><td><span class="item-currency">Soul Core of Jiquani</span></td><td class="num price-ex">769</td><td class="num price-div">4.1</td></tr>
+            <tr><td><span class="item-currency">Guatelitzi's Soul Core of Endurance</span></td><td class="num price-ex">734</td><td class="num price-div">3.9</td></tr>
+            <tr><td><span class="item-currency">Soul Core of Ticaba</span> <em style="color:#8b7355">(крит урон — пример из гайда)</em></td><td class="num price-ex">550</td><td class="num price-div">2.9</td></tr>
+            <tr><td><span class="item-currency">Soul Core of Azcapa</span></td><td class="num price-ex">504</td><td class="num price-div">2.7</td></tr>
+            <tr style="background: rgba(40, 50, 70, 0.15)"><td colspan="3" style="text-align: center; color: #8b7355; font-style: italic; padding: 8px;">↓ дешёвые ядра для перековки ↓</td></tr>
+            <tr><td>Soul Core of Atmohua / Cholotl / Tacati's</td><td class="num price-ex">~155</td><td class="num price-div">0.8</td></tr>
+            <tr><td><span class="item-currency">Topotante's Soul Core of Dampening</span> <em style="color:#8b7355">(пример входа в перековку)</em></td><td class="num price-ex">55</td><td class="num price-div">0.3</td></tr>
+            <tr><td>Hayoxi's / Citaqualotl's / Zalatl's / Tacati</td><td class="num price-ex">21–35</td><td class="num price-div">~0.1</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3 style="margin-top: 32px;">Uncut Skill / Spirit Gems (камни)</h3>
+      <div class="table-wrap" style="max-width: 720px;">
+        <table>
+          <thead><tr><th>Камень</th><th class="num">Цена (ex)</th><th class="num">≈ div</th></tr></thead>
+          <tbody>
+            <tr><td><strong class="item-gem">Uncut Spirit Gem (lvl 8)</strong> <em style="color:#8b7355">(топ-фарм с актов)</em></td><td class="num price-ex">10 407</td><td class="num price-div">55.6</td></tr>
+            <tr><td><span class="item-gem">Uncut Spirit Gem (lvl 20)</span></td><td class="num price-ex">5 949</td><td class="num price-div">31.8</td></tr>
+            <tr><td><span class="item-gem">Uncut Spirit Gem (lvl 9)</span></td><td class="num price-ex">4 276</td><td class="num price-div">22.9</td></tr>
+            <tr><td><span class="item-gem">Uncut Spirit Gem (lvl 7)</span></td><td class="num price-ex">3 649</td><td class="num price-div">19.5</td></tr>
+            <tr><td><span class="item-gem">Uncut Skill Gem (lvl 20)</span></td><td class="num price-ex">754</td><td class="num price-div">4.0</td></tr>
+            <tr><td><span class="item-gem">Uncut Support Gem (lvl 5)</span></td><td class="num price-ex">180</td><td class="num price-div">~1</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3 style="margin-top: 32px;">Топ Essences (для перековки)</h3>
+      <div class="table-wrap" style="max-width: 720px;">
+        <table>
+          <thead><tr><th>Эссенция</th><th class="num">Цена (ex)</th></tr></thead>
+          <tbody>
+            <tr><td><span class="item-currency">Lesser Essence of Seeking</span></td><td class="num price-ex">37 085</td></tr>
+            <tr><td><span class="item-currency">Essence of Alacrity</span></td><td class="num price-ex">2 828</td></tr>
+            <tr><td><span class="item-currency">Essence of Thawing</span></td><td class="num price-ex">2 429</td></tr>
+            <tr><td><span class="item-currency">Lesser Essence of Sorcery</span></td><td class="num price-ex">2 160</td></tr>
+            <tr><td><span class="item-currency">Lesser Essence of Ice</span></td><td class="num price-ex">1 486</td></tr>
+            <tr><td><span class="item-currency">Essence of Horror</span></td><td class="num price-ex">1 110</td></tr>
+            <tr><td><span class="item-currency">Essence of Battle</span></td><td class="num price-ex">287</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="callout info">
+        <div class="callout-title">Как пользоваться этими цифрами в Aldur</div>
+        <p>
+          На старте лиги <strong>все эти цены будут в 5–20 раз ниже</strong> и постепенно подтянутся к таким значениям к 3–4 неделе. Используй таблицу для:
+        </p>
+        <ul class="guide-list" style="margin-top: 8px;">
+          <li>Понимания, <strong>какие категории</strong> в принципе стоят сотни диванов (топ Lineage, Spirit Gem lvl 8)</li>
+          <li>Поиска <strong>«дешёвых исходов»</strong> для перековки (нижние строки в Soul Cores)</li>
+          <li>Прикидки своего <strong>таргета на 2-ю неделю</strong> — что покупать в задел и до какой цены ждать</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============== RESOURCES ============== -->
+    <section id="resources">
+      <header class="section-header">
+        <div class="section-eyebrow">Ссылки</div>
+        <h2>Полезные ресурсы и инструменты</h2>
+      </header>
+
+      <div class="cards-grid">
+        <div class="card">
+          <h3>poe2scout.com</h3>
+          <p>Реальные цены, графики, история курсов. Открытый API. <strong>Главный инструмент</strong> для проверки маржи перед любой манипуляцией.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://poe2scout.com" target="_blank"><span class="trade-link-title">Открыть</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>poe.ninja/poe2</h3>
+          <p>Экономика через Currency Exchange. 14 категорий, нормализация к Chaos / Divine / Exalted. История 120 дней.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://poe.ninja/poe2/economy" target="_blank"><span class="trade-link-title">Открыть</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>poe2.ninja/builds</h3>
+          <p>Популярные билды лиги. Смотри % популярности — это даёт понимание, какие гемы будут метой.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://poe2.ninja" target="_blank"><span class="trade-link-title">Открыть</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>TFT Discord</h3>
+          <p>Bulk-продажи баз и валют. Пройди верификацию заранее, чтобы в первый день уже постить пасты.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://discord.gg/bRw4dQxvDZ" target="_blank"><span class="trade-link-title">Присоединиться</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>Телеграм-сообщество PoE 2 SNG</h3>
+          <p>Канал автора оригинального гайда. Можно продавать не только пояса, но и другие предметы.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://t.me/Pathofexile2communitysng" target="_blank"><span class="trade-link-title">Подписаться</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>Twitch UnstoppablePoE</h3>
+          <p>Стрим автора оригинального гайда. Полезно держать в фоне в первые дни для свежих наблюдений.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://twitch.tv/UnstoppablePoe" target="_blank"><span class="trade-link-title">Смотреть</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>Telegram автора</h3>
+          <p>Личный канал с заметками, расписанием стримов и записями крафта.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://t.me/unstoppablebtttw" target="_blank"><span class="trade-link-title">Подписаться</span><span class="trade-link-arrow">→</span></a>
+        </div>
+        <div class="card">
+          <h3>Boosty</h3>
+          <p>Ранний выход контента, скрытые записи стримов и крафта.</p>
+          <a class="trade-link" style="margin-top:10px" href="https://boosty.to/unstoppablepoe" target="_blank"><span class="trade-link-title">Открыть</span><span class="trade-link-arrow">→</span></a>
+        </div>
+      </div>
+
+      <h3 style="margin-top: 36px;">Wiki / патчноут 0.5</h3>
+      <ul class="guide-list">
+        <li><a href="https://www.poe2wiki.net/wiki/Version_0.5.0" target="_blank">poe2wiki.net — Version 0.5.0</a> — полный список изменений патча Return of the Ancients</li>
+        <li><a href="https://www.pathofexile.com/forum/view-forum/poe2" target="_blank">Официальный форум PoE 2</a> — патчноуты от GGG</li>
+      </ul>
+    </section>
+
+    <!-- ============== GALLERY ============== -->
+    <section id="gallery">
+      <header class="section-header">
+        <div class="section-eyebrow">138 скриншотов</div>
+        <h2>Галерея из оригинального гайда</h2>
+        <p>Все скриншоты с примерами трейд-фильтров, перековок, осквернения и торговых интерфейсов. Кликни любую — откроется в полном размере.</p>
+      </header>
+
+      <div class="gallery" id="gallery"></div>
+    </section>
+
+  </main>
+</div>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true">
+  <button class="lightbox-close" id="lightboxClose" aria-label="Закрыть">×</button>
+  <img id="lightboxImg" src="" alt="">
+</div>
+
+<script src="assets/script.js"></script>
+</body>
+</html>
