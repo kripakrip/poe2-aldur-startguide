@@ -1,0 +1,43 @@
+name: Update dashboard data
+
+on:
+  schedule:
+    # Every 6 hours: 00:15 / 06:15 / 12:15 / 18:15 UTC
+    - cron: '15 */6 * * *'
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'scripts/fetch-and-compute.mjs'
+      - '.github/workflows/update-dashboard.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-dashboard
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '20'
+
+      - name: Fetch and compute
+        run: node scripts/fetch-and-compute.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: refresh dashboard $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            git push
+          fi
