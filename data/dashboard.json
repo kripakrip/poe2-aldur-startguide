@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-11T04:58:19.731Z",
+  "generatedAt": "2026-06-11T10:58:09.331Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 133.09402330577677,
-    "chaosDiv": 11.609080373293075,
+    "divine": 125.16928394619025,
+    "chaosDiv": 10.820666219487451,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,7 +28,7 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 520.17487654321
+        "divine": 292.6331314382285
       },
       {
         "name": "Hardcore",
@@ -48,114 +48,16 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 133.09402330577677
+        "divine": 125.16928394619025
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 72.33856425473637
+        "divine": 76.22097967760206
       }
     ]
   },
   "categories": {
-    "fragments": {
-      "label": "Fragments",
-      "count": 16,
-      "validCount": 16,
-      "topItems": [
-        {
-          "name": "Azmeri Reliquary Key",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Ud2lsaWdodE9yZGVyUmVsaXF1YXJ5S2V5QXptZXJpIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cf47ea370f/TwilightOrderReliquaryKeyAzmeri.png",
-          "price": 12045,
-          "dayDelta": -4.96,
-          "weekDelta": 90.57,
-          "volume": 282
-        },
-        {
-          "name": "Origin Core",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUHJlY3Vyc29yU2VlZEVnZ0NvbWJpbmVkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/789160e327/PrecursorSeedEggCombined.png",
-          "price": 769.3,
-          "dayDelta": 2.9,
-          "weekDelta": 17.92,
-          "volume": 58024
-        },
-        {
-          "name": "Simulacrum",
-          "icon": "https://web.poecdn.com//gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bUZyYWdtZW50Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cce2c7e1b3/DeliriumFragment.png",
-          "price": 659.6,
-          "dayDelta": -16.18,
-          "weekDelta": 61.62,
-          "volume": 31313
-        },
-        {
-          "name": "Breachlord Sac",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUXVlc3RJdGVtcy9CcmVhY2hsb3JkU2FjIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/07670f51fe/BreachlordSac.png",
-          "price": 580.5,
-          "dayDelta": -0.63,
-          "weekDelta": 34.02,
-          "volume": 43820
-        },
-        {
-          "name": "Origin Cradle",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUHJlY3Vyc29yRWdnIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/c386e361d1/PrecursorEgg.png",
-          "price": 383.1,
-          "dayDelta": 0.43,
-          "weekDelta": 17.95,
-          "volume": 106617
-        },
-        {
-          "name": "Origin Spark",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUHJlY3Vyc29yU2VlZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/550527bcd4/PrecursorSeed.png",
-          "price": 314,
-          "dayDelta": 9.48,
-          "weekDelta": 21.18,
-          "volume": 114295
-        },
-        {
-          "name": "Faded Crisis Fragment",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUXVlc3RJdGVtcy9QaW5uYWNsZUtleTIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/5709c39ee7/PinnacleKey2.png",
-          "price": 252.2,
-          "dayDelta": 10.3,
-          "weekDelta": 193.58,
-          "volume": 89446
-        },
-        {
-          "name": "Cowardly Fate",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL1RyaWFsbWFzdGVyS2V5MSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/661ab60074/TrialmasterKey1.png",
-          "price": 152.8,
-          "dayDelta": 10.51,
-          "weekDelta": 103.73,
-          "volume": 14277
-        }
-      ],
-      "cheapItems": [
-        {
-          "name": "Breach Splinter",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaHN0b25lU3BsaW50ZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/4abb17ea8e/BreachstoneSplinter.png",
-          "price": 0.12
-        },
-        {
-          "name": "Simulacrum Splinter",
-          "icon": "https://web.poecdn.com//gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bVNwbGludGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/296e6ffc57/DeliriumSplinter.png",
-          "price": 2
-        },
-        {
-          "name": "Kulemak's Invitation",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvS3VsZW1ha3NJbnZpdGF0aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/c7e6e86681/KulemaksInvitation.png",
-          "price": 8.71
-        },
-        {
-          "name": "Breachstone",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaHN0b25lIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d60587d724/Breachstone.png",
-          "price": 54.89
-        },
-        {
-          "name": "Ancient Crisis Fragment",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUXVlc3RJdGVtcy9QaW5uYWNsZUtleTEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ef329c74d1/PinnacleKey1.png",
-          "price": 61.9
-        }
-      ]
-    },
     "abyss": {
       "label": "Abyss",
       "count": 15,
@@ -164,191 +66,93 @@
         {
           "name": "Ancient Collarbone",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvQW5jaWVudENsYXZpY2xlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/86b2c7a29a/AncientClavicle.png",
-          "price": 1680.7,
-          "dayDelta": 4.68,
-          "weekDelta": 122.9,
-          "volume": 16081
+          "price": 1697.7,
+          "dayDelta": 5.74,
+          "weekDelta": 125.15,
+          "volume": 17696
         },
         {
           "name": "Kurgal's Gaze",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3NhbEV5ZVNvY2tldGFibGVzL0t1cmdhbHNHYXplIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/c21eb07bab/KurgalsGaze.png",
-          "price": 1177.3,
-          "dayDelta": -1.16,
-          "weekDelta": 150.2,
-          "volume": 1896
+          "price": 1104.5,
+          "dayDelta": -7.27,
+          "weekDelta": 134.73,
+          "volume": 2055
         },
         {
           "name": "Ancient Jawbone",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvQW5jaWVudEphd2JvbmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/bff68187a6/AncientJawbone.png",
-          "price": 1129.9,
-          "dayDelta": 8.83,
-          "weekDelta": 144.69,
-          "volume": 69466
+          "price": 1070.4,
+          "dayDelta": 3.1,
+          "weekDelta": 131.81,
+          "volume": 76438
         },
         {
           "name": "Ulaman's Gaze",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3NhbEV5ZVNvY2tldGFibGVzL1VsYW1hbnNHYXplIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/b39b0a03bc/UlamansGaze.png",
-          "price": 643.6,
-          "dayDelta": -7.92,
-          "weekDelta": -24.62,
-          "volume": 1727
+          "price": 676.3,
+          "dayDelta": -3.24,
+          "weekDelta": -20.78,
+          "volume": 1891
         },
         {
           "name": "Ancient Rib",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvQW5jaWVudFJpYnMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/0c779c5d3f/AncientRibs.png",
-          "price": 488.8,
-          "dayDelta": 6.32,
-          "weekDelta": 139.61,
-          "volume": 66535
+          "price": 471.1,
+          "dayDelta": 2.46,
+          "weekDelta": 130.91,
+          "volume": 73929
         },
         {
           "name": "Tecrod's Gaze",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3NhbEV5ZVNvY2tldGFibGVzL1RlY3JvZHNHYXplIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/ef2a9355b4/TecrodsGaze.png",
-          "price": 374.4,
-          "dayDelta": -0.64,
-          "weekDelta": 67.11,
-          "volume": 8109
+          "price": 396,
+          "dayDelta": 5.11,
+          "weekDelta": 76.78,
+          "volume": 9077
         },
         {
           "name": "Altered Collarbone",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaERlc2VjcmF0aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/7f4a69e367/BreachDesecration.png",
-          "price": 113.7,
-          "dayDelta": 12.26,
-          "weekDelta": 55.39,
-          "volume": 18997
+          "price": 117.3,
+          "dayDelta": 15.8,
+          "weekDelta": 60.29,
+          "volume": 20959
         },
         {
-          "name": "Preserved Collarbone",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvUHJlc2VydmVkQ2FsdmljbGUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/6f63f7462d/PreservedCalvicle.png",
-          "price": 91.9,
-          "dayDelta": -6.12,
-          "weekDelta": 45.58,
-          "volume": 347200
+          "name": "Preserved Cranium",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvUHJlc2VydmVkQ3Jhbml1bSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/791fdae503/PreservedCranium.png",
+          "price": 97.5,
+          "dayDelta": 19.43,
+          "weekDelta": 256.5,
+          "volume": 166598
         }
       ],
       "cheapItems": [
         {
           "name": "Gnawed Rib",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvR25hd2VkUmlicyIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/b0581454e6/GnawedRibs.png",
-          "price": 0.84
+          "price": 0.64
         },
         {
           "name": "Preserved Jawbone",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvUHJlc2VydmVkSmF3Ym9uZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/2bb7939b21/PreservedJawbone.png",
-          "price": 0.86
+          "price": 1.07
         },
         {
           "name": "Gnawed Collarbone",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvR25hd2VkQ2xhdmljbGUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ff42f1ab47/GnawedClavicle.png",
-          "price": 1.88
+          "price": 1.75
         },
         {
           "name": "Gnawed Jawbone",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvR25hd2VkSmF3Ym9uZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6d343a5e8d/GnawedJawbone.png",
-          "price": 2.8
+          "price": 2.06
         },
         {
           "name": "Preserved Rib",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3MvUHJlc2VydmVkUmlicyIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/3676729ba0/PreservedRibs.png",
-          "price": 3.21
-        }
-      ]
-    },
-    "currency": {
-      "label": "Currency",
-      "count": 25,
-      "validCount": 25,
-      "topItems": [
-        {
-          "name": "Mirror of Kalandra",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lEdXBsaWNhdGUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/26bc31680e/CurrencyDuplicate.png",
-          "price": 350370,
-          "dayDelta": 6.23,
-          "weekDelta": 176.35,
-          "volume": 494
-        },
-        {
-          "name": "Hinekora's Lock",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab2163ae06/HinekorasLock.png",
-          "price": 36619.6,
-          "dayDelta": -0.4,
-          "weekDelta": 331.76,
-          "volume": 4967
-        },
-        {
-          "name": "Perfect Chaos Orb",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/c0ca392a78/CurrencyRerollRare.png",
-          "price": 393.9,
-          "dayDelta": -1.22,
-          "weekDelta": 83.26,
-          "volume": 151608
-        },
-        {
-          "name": "Perfect Exalted Orb",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ad7c366789/CurrencyAddModToRare.png",
-          "price": 381.1,
-          "dayDelta": 1.79,
-          "weekDelta": 70.91,
-          "volume": 247437
-        },
-        {
-          "name": "Divine Orb",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/2986e220b3/CurrencyModValues.png",
-          "price": 133.1,
-          "dayDelta": 3.02,
-          "weekDelta": 54.17,
-          "volume": 28306554
-        },
-        {
-          "name": "Fracturing Orb",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/8b85ed1dc2/FracturingOrb.png",
-          "price": 93.7,
-          "dayDelta": 7.79,
-          "weekDelta": 6.36,
-          "volume": 293978
-        },
-        {
-          "name": "Perfect Jeweller's Orb",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzMDMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ac6398e6a0/CurrencyRerollSocketNumbers03.png",
-          "price": 92,
-          "dayDelta": -8.34,
-          "weekDelta": 6.57,
-          "volume": 605251
-        },
-        {
-          "name": "Orb of Annulment",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsT3JiIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/2daba8ccca/AnnullOrb.png",
-          "price": 62.8,
-          "dayDelta": -2.98,
-          "weekDelta": 117.33,
-          "volume": 1720565
-        }
-      ],
-      "cheapItems": [
-        {
-          "name": "Armourer's Scrap",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBcm1vdXJRdWFsaXR5Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d5868f596d/CurrencyArmourQuality.png",
-          "price": 0.73
-        },
-        {
-          "name": "Transmutation Shard",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9NYWdpY1NoYXJkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/e67bca229b/CurrencyUpgradeToMagicShard.png",
-          "price": 1
-        },
-        {
-          "name": "Exalted Orb",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ad7c366789/CurrencyAddModToRare.png",
-          "price": 1
-        },
-        {
-          "name": "Greater Regal Orb",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e8fb148e80/CurrencyUpgradeMagicToRare.png",
-          "price": 1.05
-        },
-        {
-          "name": "Arcanist's Etcher",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lXZWFwb25NYWdpY1F1YWxpdHkiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/516e8f1131/CurrencyWeaponMagicQuality.png",
-          "price": 1.06
+          "price": 3.39
         }
       ]
     },
@@ -360,83 +164,83 @@
         {
           "name": "Refined Reaver Catalyst",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RBdHRhY2siLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/9c13494ea8/JewelCatalystAttack.png",
-          "price": 240.5,
-          "dayDelta": 18.76,
-          "weekDelta": 365.88,
-          "volume": 33262
+          "price": 224.5,
+          "dayDelta": 10.86,
+          "weekDelta": 334.87,
+          "volume": 36634
         },
         {
           "name": "Refined Sibilant Catalyst",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RDYXN0ZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/280306d9e0/JewelCatalystCaster.png",
-          "price": 54,
-          "dayDelta": -18.23,
-          "weekDelta": 45.31,
-          "volume": 28688
+          "price": 92.4,
+          "dayDelta": 39.82,
+          "weekDelta": 148.47,
+          "volume": 31824
         },
         {
           "name": "Reaver Catalyst",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0QXR0YWNrIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/ccc363f502/BreachCatalystAttack.png",
-          "price": 43.1,
-          "dayDelta": 1.36,
-          "weekDelta": 23.37,
-          "volume": 647656
-        },
-        {
-          "name": "Sibilant Catalyst",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0Q2FzdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/51dc6bc317/BreachCatalystCaster.png",
-          "price": 20.9,
-          "dayDelta": 10.83,
-          "weekDelta": 50.89,
-          "volume": 608878
-        },
-        {
-          "name": "Refined Tul's Catalyst",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RDb2xkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/1b256097c6/JewelCatalystCold.png",
-          "price": 17.6,
-          "dayDelta": -9.08,
-          "weekDelta": 21.34,
-          "volume": 35029
+          "price": 43.8,
+          "dayDelta": 3.04,
+          "weekDelta": 25.42,
+          "volume": 713214
         },
         {
           "name": "Refined Skittering Catalyst",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RTcGVlZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/680cbc13b1/JewelCatalystSpeed.png",
-          "price": 16.7,
-          "dayDelta": 4.51,
-          "weekDelta": 65.85,
-          "volume": 9544
+          "price": 34.7,
+          "dayDelta": 117.86,
+          "weekDelta": 245.74,
+          "volume": 10678
+        },
+        {
+          "name": "Refined Tul's Catalyst",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RDb2xkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/1b256097c6/JewelCatalystCold.png",
+          "price": 23.5,
+          "dayDelta": 20.93,
+          "weekDelta": 61.39,
+          "volume": 38735
+        },
+        {
+          "name": "Sibilant Catalyst",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0Q2FzdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/51dc6bc317/BreachCatalystCaster.png",
+          "price": 21,
+          "dayDelta": 11.03,
+          "weekDelta": 51.16,
+          "volume": 671386
         },
         {
           "name": "Refined Carapace Catalyst",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3REZWZlbmNlcyIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/a4d02de8e3/JewelCatalystDefences.png",
-          "price": 12,
-          "dayDelta": 18.54,
-          "weekDelta": 16.65,
-          "volume": 53113
+          "price": 13.7,
+          "dayDelta": 35.47,
+          "weekDelta": 33.31,
+          "volume": 58902
         },
         {
-          "name": "Tul's Catalyst",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0Q29sZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/c3bc9abf43/BreachCatalystCold.png",
+          "name": "Refined Esh's Catalyst",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RMaWdodG5pbmciLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/55ca761293/JewelCatalystLightning.png",
           "price": 9.5,
-          "dayDelta": 4.61,
-          "weekDelta": -1.3,
-          "volume": 787180
+          "dayDelta": 23.69,
+          "weekDelta": 46.86,
+          "volume": 33840
         }
       ],
       "cheapItems": [
         {
-          "name": "Flesh Catalyst",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0TGlmZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/06ec489870/BreachCatalystLife.png",
-          "price": 1.39
-        },
-        {
           "name": "Uul-Netol's Catalyst",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0UGh5c2ljYWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/bc9406c106/BreachCatalystPhysical.png",
-          "price": 1.48
+          "price": 1.45
+        },
+        {
+          "name": "Flesh Catalyst",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0TGlmZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/06ec489870/BreachCatalystLife.png",
+          "price": 1.46
         },
         {
           "name": "Adaptive Catalyst",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0QXR0cmlidXRlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/015f6c9ac8/BreachCatalystAttribute.png",
-          "price": 1.54
+          "price": 1.49
         },
         {
           "name": "Chayula's Catalyst",
@@ -444,499 +248,107 @@
           "price": 1.57
         },
         {
-          "name": "Neural Catalyst",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0TWFuYSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/61d3a7a832/BreachCatalystMana.png",
-          "price": 1.91
+          "name": "Carapace Catalyst",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0RGVmZW5jZXMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/568ca70b04/BreachCatalystDefences.png",
+          "price": 1.68
         }
       ]
     },
-    "essences": {
-      "label": "Essences",
-      "count": 25,
-      "validCount": 25,
+    "fragments": {
+      "label": "Fragments",
+      "count": 16,
+      "validCount": 16,
       "topItems": [
         {
-          "name": "Essence of Hysteria",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlSHlzdGVyaWEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/91e94f1413/CorruptedEssenceHysteria.png",
-          "price": 185,
-          "dayDelta": 10.57,
-          "weekDelta": 131.75,
-          "volume": 31904
+          "name": "Azmeri Reliquary Key",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Ud2lsaWdodE9yZGVyUmVsaXF1YXJ5S2V5QXptZXJpIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cf47ea370f/TwilightOrderReliquaryKeyAzmeri.png",
+          "price": 11240.2,
+          "dayDelta": -11.31,
+          "weekDelta": 77.84,
+          "volume": 315
         },
         {
-          "name": "Essence of Horror",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlSG9ycm9yIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/6b3b256279/CorruptedEssenceHorror.png",
-          "price": 25.1,
-          "dayDelta": 8.89,
-          "weekDelta": 44.16,
-          "volume": 20749
+          "name": "Origin Core",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUHJlY3Vyc29yU2VlZEVnZ0NvbWJpbmVkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/789160e327/PrecursorSeedEggCombined.png",
+          "price": 684.8,
+          "dayDelta": -8.4,
+          "weekDelta": 4.97,
+          "volume": 64058
         },
         {
-          "name": "Essence of Opulence",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYXJpdHlSZXNpc3RhbmNlRXNzZW5jZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/1b79acb619/RarityResistanceEssence.png",
-          "price": 24.8,
-          "dayDelta": 2.15,
-          "weekDelta": 127.35,
-          "volume": 2175
+          "name": "Simulacrum",
+          "icon": "https://web.poecdn.com//gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bUZyYWdtZW50Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cce2c7e1b3/DeliriumFragment.png",
+          "price": 587.1,
+          "dayDelta": -25.4,
+          "weekDelta": 43.85,
+          "volume": 35520
         },
         {
-          "name": "Essence of Ruin",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9DaGFvc0Vzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/5f0d3c7014/ChaosEssence.png",
-          "price": 14.1,
-          "dayDelta": 162.79,
-          "weekDelta": 364.92,
-          "volume": 568
+          "name": "Breachlord Sac",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUXVlc3RJdGVtcy9CcmVhY2hsb3JkU2FjIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/07670f51fe/BreachlordSac.png",
+          "price": 473.5,
+          "dayDelta": -18.96,
+          "weekDelta": 9.31,
+          "volume": 48829
         },
         {
-          "name": "Essence of Abrasion",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9QaHlzaWNhbEVzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e52cd05eeb/PhysicalEssence.png",
-          "price": 11.8,
-          "dayDelta": 21.18,
-          "weekDelta": 102.71,
-          "volume": 2556
+          "name": "Origin Cradle",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUHJlY3Vyc29yRWdnIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/c386e361d1/PrecursorEgg.png",
+          "price": 326.5,
+          "dayDelta": -14.43,
+          "weekDelta": 0.51,
+          "volume": 118320
         },
         {
-          "name": "Perfect Essence of Grounding",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9MaWdodG5pbmdSZXNpc3RhbmNlRXNzZW5jZVBlcmZlY3QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/10c362c717/LightningResistanceEssencePerfect.png",
-          "price": 10.9,
-          "dayDelta": 99.34,
-          "weekDelta": 1534.66,
-          "volume": 16466
+          "name": "Faded Crisis Fragment",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUXVlc3RJdGVtcy9QaW5uYWNsZUtleTIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/5709c39ee7/PinnacleKey2.png",
+          "price": 295.4,
+          "dayDelta": 29.2,
+          "weekDelta": 243.89,
+          "volume": 99420
         },
         {
-          "name": "Greater Essence of Opulence",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVhdGVyUmFyaXR5UmVzaXN0YW5jZUVzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/dfc7c22676/GreaterRarityResistanceEssence.png",
-          "price": 10.5,
-          "dayDelta": -9.22,
-          "weekDelta": -23.44,
-          "volume": 121464
+          "name": "Origin Spark",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUHJlY3Vyc29yU2VlZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/550527bcd4/PrecursorSeed.png",
+          "price": 271.6,
+          "dayDelta": -5.3,
+          "weekDelta": 4.82,
+          "volume": 126318
         },
         {
-          "name": "Essence of Grounding",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9MaWdodG5pbmdSZXNpc3RhbmNlRXNzZW5jZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/f752fa5ed2/LightningResistanceEssence.png",
-          "price": 8.5,
-          "dayDelta": 42.94,
-          "weekDelta": 72.98,
-          "volume": 464
+          "name": "Deadly Fate",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL1RyaWFsbWFzdGVyS2V5MiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/cccae44832/TrialmasterKey2.png",
+          "price": 147.1,
+          "dayDelta": 2.99,
+          "weekDelta": 93.64,
+          "volume": 15721
         }
       ],
       "cheapItems": [
         {
-          "name": "Greater Essence of Ruin",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVhdGVyQ2hhb3NFc3NlbmNlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/5c71ec7418/GreaterChaosEssence.png",
-          "price": 3.04
+          "name": "Breach Splinter",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaHN0b25lU3BsaW50ZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/4abb17ea8e/BreachstoneSplinter.png",
+          "price": 0.13
         },
         {
-          "name": "Lesser Essence of Electricity",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9MaWdodG5pbmdFc3NlbmNlTGVzc2VyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/49193c5226/LightningEssenceLesser.png",
-          "price": 3.25
+          "name": "Simulacrum Splinter",
+          "icon": "https://web.poecdn.com//gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bVNwbGludGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/296e6ffc57/DeliriumSplinter.png",
+          "price": 1.82
         },
         {
-          "name": "Essence of Seeking",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Dcml0aWNhbEVzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/febf231da7/CriticalEssence.png",
-          "price": 3.57
+          "name": "Kulemak's Invitation",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvS3VsZW1ha3NJbnZpdGF0aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/c7e6e86681/KulemaksInvitation.png",
+          "price": 7.55
         },
         {
-          "name": "Perfect Essence of Haste",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGVlZEVzc2VuY2VQZXJmZWN0Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/93df0c5b25/SpeedEssencePerfect.png",
-          "price": 3.59
+          "name": "Ancient Crisis Fragment",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUXVlc3RJdGVtcy9QaW5uYWNsZUtleTEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ef329c74d1/PinnacleKey1.png",
+          "price": 54.08
         },
         {
-          "name": "Essence of the Body",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9MaWZlRXNzZW5jZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/638d6c4cbe/LifeEssence.png",
-          "price": 3.62
-        }
-      ]
-    },
-    "lineagesupportgems": {
-      "label": "Lineage Support Gems",
-      "count": 25,
-      "validCount": 25,
-      "topItems": [
-        {
-          "name": "Garukhan's Resolve",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0dhcnVraGFuIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/392773e9fd/Garukhan.png",
-          "price": 40163.3,
-          "dayDelta": 6.81,
-          "weekDelta": 128.33,
-          "volume": 5571
-        },
-        {
-          "name": "Uul-Netol's Embrace",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVdWxOZXRvbCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/751151f142/LineageUulNetol.png",
-          "price": 24523.8,
-          "dayDelta": -9.4,
-          "weekDelta": 93.08,
-          "volume": 1706
-        },
-        {
-          "name": "Atziri's Communion",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0F0emlyaUNvbW11bmlvbiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/10509800d7/AtziriCommunion.png",
-          "price": 17515.2,
-          "dayDelta": 15.84,
-          "weekDelta": 158.88,
-          "volume": 2774
-        },
-        {
-          "name": "Rakiata's Flow",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1Jha2lhdGEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/20a70b7bd3/Rakiata.png",
-          "price": 15979.8,
-          "dayDelta": 0.68,
-          "weekDelta": 70.06,
-          "volume": 23431
-        },
-        {
-          "name": "Dialla's Desire",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0RpYWxsYSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/1b959c86b4/Dialla.png",
-          "price": 12936.2,
-          "dayDelta": 12.71,
-          "weekDelta": 154.18,
-          "volume": 3171
-        },
-        {
-          "name": "Rigwald's Ferocity",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1JpZ3dhbGQiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/a053a2b077/Rigwald.png",
-          "price": 10003.4,
-          "dayDelta": 5.32,
-          "weekDelta": 102.9,
-          "volume": 7167
-        },
-        {
-          "name": "Tul's Stillness",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUdWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/cff647542b/LineageTul.png",
-          "price": 5645.4,
-          "dayDelta": -0.99,
-          "weekDelta": 59.42,
-          "volume": 2082
-        },
-        {
-          "name": "Uhtred's Exodus",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVaHRyZWRMZXNzZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/b286006915/LineageUhtredLesser.png",
-          "price": 3650.6,
-          "dayDelta": -6.01,
-          "weekDelta": 93.06,
-          "volume": 1096
-        }
-      ],
-      "cheapItems": [
-        {
-          "name": "Khatal's Rejuvenation",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VLaGF0YWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e67d6a908e/LineageKhatal.png",
-          "price": 115.13
-        },
-        {
-          "name": "Ixchel's Torment",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1RyaWFsbWFzdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/231195f1b3/Trialmaster.png",
-          "price": 132.71
-        },
-        {
-          "name": "Arbiter's Ignition",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBcmJpdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/52bc86c140/LineageArbiter.png",
-          "price": 141.36
-        },
-        {
-          "name": "Brutus' Brain",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VNZWF0c2hpZWxkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/115edf7e2f/LineageMeatshield.png",
-          "price": 190.98
-        },
-        {
-          "name": "Tecrod's Revenge",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUZWNyb2QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/783b026592/LineageTecrod.png",
-          "price": 200.23
-        }
-      ]
-    },
-    "ultimatum": {
-      "label": "Soul Cores",
-      "count": 25,
-      "validCount": 25,
-      "topItems": [
-        {
-          "name": "Soul Core of Quipolatl",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZVNwZWVkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d4967ad0f1/GreaterSoulCoreSpeed.png",
-          "price": 569.2,
-          "dayDelta": 2.59,
-          "weekDelta": 105.94,
-          "volume": 10745
-        },
-        {
-          "name": "Opiloti's Soul Core of Assault",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlRnJlbnp5Q2hhcmdlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/ce5c1bdfdc/NewSoulCoreFrenzyCharge.png",
-          "price": 406.9,
-          "dayDelta": -8.14,
-          "weekDelta": 267.93,
-          "volume": 2220
-        },
-        {
-          "name": "Soul Core of Azcapa",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZVdlYWx0aFJhcml0eSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6a69033a04/GreaterSoulCoreWealthRarity.png",
-          "price": 329.8,
-          "dayDelta": 16.43,
-          "weekDelta": 360.01,
-          "volume": 6316
-        },
-        {
-          "name": "Xopec's Soul Core of Power",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlUG93ZXJDaGFyZ2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/083d39a63b/NewSoulCorePowerCharge.png",
-          "price": 157.3,
-          "dayDelta": -40.29,
-          "weekDelta": -12.24,
-          "volume": 2084
-        },
-        {
-          "name": "Soul Core of Cholotl",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZURleCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/c732c8a579/GreaterSoulCoreDex.png",
-          "price": 81.8,
-          "dayDelta": 9.59,
-          "weekDelta": 507.52,
-          "volume": 4570
-        },
-        {
-          "name": "Quipolatl's Soul Core of Flow",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlVGltZUNvb2xkb3duIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/dab6d943f3/NewSoulCoreTimeCooldown.png",
-          "price": 52.9,
-          "dayDelta": 4.45,
-          "weekDelta": 0.96,
-          "volume": 5322
-        },
-        {
-          "name": "Soul Core of Tacati",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZUNoYW9zIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cd9c4fb0a7/GreaterSoulCoreChaos.png",
-          "price": 48.6,
-          "dayDelta": -4.44,
-          "weekDelta": 56.56,
-          "volume": 62336
-        },
-        {
-          "name": "Tzamoto's Soul Core of Ferocity",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlUmFnZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/7bbacc1706/NewSoulCoreRage.png",
-          "price": 45,
-          "dayDelta": -7.26,
-          "weekDelta": -13.14,
-          "volume": 5591
-        }
-      ],
-      "cheapItems": [
-        {
-          "name": "Hayoxi's Soul Core of Heatproofing",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlSWNlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/6d8455bff0/NewSoulCoreIce.png",
-          "price": 4.34
-        },
-        {
-          "name": "Cholotl's Soul Core of War",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlUHJvamVjdGlsZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/dfc35bed7f/NewSoulCoreProjectile.png",
-          "price": 4.55
-        },
-        {
-          "name": "Atmohua's Soul Core of Retreat",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlRW5lcmd5U2hpZWxkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/10e16bc3ea/NewSoulCoreEnergyShield.png",
-          "price": 4.55
-        },
-        {
-          "name": "Xipocado's Soul Core of Dominion",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlTWluaW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/b1e7975db2/NewSoulCoreMinion.png",
-          "price": 6.14
-        },
-        {
-          "name": "Estazunti's Soul Core of Convalescence",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlVGltZVNsb3ciLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/c32a5b3a47/NewSoulCoreTimeSlow.png",
-          "price": 10.58
-        }
-      ]
-    },
-    "delirium": {
-      "label": "Delirium",
-      "count": 25,
-      "validCount": 25,
-      "topItems": [
-        {
-          "name": "Ancient Potent Liquid Contempt",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxlc3NVbmlxdWVCZWFzdEVtb3Rpb24iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/9a1f8acc0e/TimelessUniqueBeastEmotion.png",
-          "price": 1408.5,
-          "dayDelta": 9.95,
-          "weekDelta": 480.72,
-          "volume": 8960
-        },
-        {
-          "name": "Potent Liquid Contempt",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVW5pcXVlQmVhc3RFbW90aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d126680055/UniqueBeastEmotion.png",
-          "price": 704.1,
-          "dayDelta": -16.46,
-          "weekDelta": 471.27,
-          "volume": 36088
-        },
-        {
-          "name": "Concentrated Liquid Isolation",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvQ29uY2VudHJhdGVkRGlzdGlsbGVkSXNvbGF0aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/44ca2d19b9/ConcentratedDistilledIsolation.png",
-          "price": 635.6,
-          "dayDelta": -5.44,
-          "weekDelta": -17.41,
-          "volume": 35002
-        },
-        {
-          "name": "Potent Liquid Ferocity",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVW5pcXVlQ29uc3RydWN0c0Vtb3Rpb24iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/c4ddf1e927/UniqueConstructsEmotion.png",
-          "price": 263.5,
-          "dayDelta": 18.76,
-          "weekDelta": 84.58,
-          "volume": 30625
-        },
-        {
-          "name": "Concentrated Liquid Suffering",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvQ29uY2VudHJhdGVkRGlzdGlsbGVkU3VmZmVyaW5nIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/10b12c3875/ConcentratedDistilledSuffering.png",
-          "price": 192.3,
-          "dayDelta": -5.03,
-          "weekDelta": -19.26,
-          "volume": 41252
-        },
-        {
-          "name": "Concentrated Liquid Fear",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvQ29uY2VudHJhdGVkRGlzdGlsbGVkRmVhciIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/2c3300fcdf/ConcentratedDistilledFear.png",
-          "price": 72.7,
-          "dayDelta": 6.25,
-          "weekDelta": -21.6,
-          "volume": 77493
-        },
-        {
-          "name": "Ancient Potent Liquid Melancholy",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxlc3NVbmlxdWVIdW1hbnNFbW90aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/34b9461ae7/TimelessUniqueHumansEmotion.png",
-          "price": 35.2,
-          "dayDelta": -8.45,
-          "weekDelta": -39.03,
-          "volume": 23546
-        },
-        {
-          "name": "Ancient Potent Liquid Ferocity",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltbGVzc1VuaXF1ZUNvbnN0cnVjdHNFbW90aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/0274721bd5/TimlessUniqueConstructsEmotion.png",
-          "price": 33.3,
-          "dayDelta": 405.92,
-          "weekDelta": 320.18,
-          "volume": 1971
-        }
-      ],
-      "cheapItems": [
-        {
-          "name": "Diluted Liquid Ire",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvRGlsdXRlZERpc3RpbGxlZElyZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/623d6e522b/DilutedDistilledIre.png",
-          "price": 0.15
-        },
-        {
-          "name": "Ancient Diluted Liquid Guilt",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxvc3REaWx1dGVkRGlzdGlsbGVkR3VpbHQiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/adc7474910/TimelostDilutedDistilledGuilt.png",
-          "price": 0.15
-        },
-        {
-          "name": "Ancient Diluted Liquid Greed",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxvc3REaWx1dGVkRGlzdGlsbGVkR3JlZWQiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/8ef165042d/TimelostDilutedDistilledGreed.png",
-          "price": 0.16
-        },
-        {
-          "name": "Diluted Liquid Guilt",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvRGlsdXRlZERpc3RpbGxlZEd1aWx0Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/ddbd513a9b/DilutedDistilledGuilt.png",
-          "price": 0.2
-        },
-        {
-          "name": "Ancient Liquid Envy",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxvc3REaXN0aWxsZWRFbnZ5Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/8135fea7ea/TimelostDistilledEnvy.png",
-          "price": 0.2
-        }
-      ]
-    },
-    "uncutgems": {
-      "label": "Uncut Gems",
-      "count": 25,
-      "validCount": 25,
-      "topItems": [
-        {
-          "name": "Uncut Skill Gem (Level 20)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
-          "price": 709.5,
-          "dayDelta": 14.52,
-          "weekDelta": 64.88,
-          "volume": 73655
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 20)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 665.2,
-          "dayDelta": 10.92,
-          "weekDelta": 109.41,
-          "volume": 17929
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 8)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 88,
-          "dayDelta": -14.36,
-          "weekDelta": 112.27,
-          "volume": 3588
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 9)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 34.4,
-          "dayDelta": 0.03,
-          "weekDelta": 198.78,
-          "volume": 4136
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 19)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 24.2,
-          "dayDelta": -1.38,
-          "weekDelta": 46.34,
-          "volume": 80472
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 14)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 21.3,
-          "dayDelta": -23.08,
-          "weekDelta": 40.21,
-          "volume": 27183
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 15)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 21.2,
-          "dayDelta": 2.03,
-          "weekDelta": 96.1,
-          "volume": 13331
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 4)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 18.2,
-          "dayDelta": 10.52,
-          "weekDelta": 146.96,
-          "volume": 5736
-        }
-      ],
-      "cheapItems": [
-        {
-          "name": "Uncut Skill Gem (Level 11)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
-          "price": 5.4
-        },
-        {
-          "name": "Uncut Skill Gem (Level 4)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
-          "price": 5.46
-        },
-        {
-          "name": "Uncut Skill Gem (Level 2)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
-          "price": 5.8
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 13)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 6.11
-        },
-        {
-          "name": "Uncut Spirit Gem (Level 6)",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-          "price": 6.15
+          "name": "Breachstone",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaHN0b25lIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d60587d724/Breachstone.png",
+          "price": 57.8
         }
       ]
     },
@@ -948,93 +360,191 @@
         {
           "name": "Raven-Touched Shard",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1FbmRnYW1lU29ja2V0YWJsZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/8ad4972b7b/DeliriumEndgameSocketable.png",
-          "price": 10398.7,
-          "dayDelta": 8.15,
-          "weekDelta": 259.74,
-          "volume": 2787
+          "price": 9073.7,
+          "dayDelta": -5.63,
+          "weekDelta": 213.9,
+          "volume": 3085
         },
         {
           "name": "Omen of Chance",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uQ2hhbmNlTm90RGVzdHJveSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/461b794959/OmenOnChanceNotDestroy.png",
-          "price": 1113.3,
-          "dayDelta": -4.82,
-          "weekDelta": 61.65,
-          "volume": 13441
+          "price": 1057.4,
+          "dayDelta": -9.59,
+          "weekDelta": 53.54,
+          "volume": 14820
         },
         {
           "name": "Omen of Light",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uQW5udWxSZW1vdmVBYnlzc01vZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/eb39bcb3d7/OmenOnAnnulRemoveAbyssMod.png",
-          "price": 771.8,
-          "dayDelta": 5.12,
-          "weekDelta": 81.56,
-          "volume": 362819
+          "price": 805.1,
+          "dayDelta": 9.65,
+          "weekDelta": 89.39,
+          "volume": 403540
         },
         {
           "name": "Omen of Sinistral Annulment",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnMyUHVycGxlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/b9eaf38592/VoodooOmens2Purple.png",
-          "price": 632,
-          "dayDelta": 19.49,
-          "weekDelta": 104.15,
-          "volume": 70001
+          "price": 764.3,
+          "dayDelta": 44.5,
+          "weekDelta": 146.89,
+          "volume": 78102
         },
         {
           "name": "Omen of Sinistral Erasure",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnMyRGFyayIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/0cfa6959be/VoodooOmens2Dark.png",
-          "price": 631.6,
-          "dayDelta": 17.78,
-          "weekDelta": 72.83,
-          "volume": 78002
-        },
-        {
-          "name": "Omen of Dextral Annulment",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnMzUHVycGxlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d901658529/VoodooOmens3Purple.png",
-          "price": 487.7,
-          "dayDelta": 31.9,
-          "weekDelta": 45.96,
-          "volume": 71650
+          "price": 639.1,
+          "dayDelta": 19.18,
+          "weekDelta": 74.89,
+          "volume": 87195
         },
         {
           "name": "Omen of Whittling",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnMxRGFyayIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/2dea0999d5/VoodooOmens1Dark.png",
-          "price": 480.7,
-          "dayDelta": 3.38,
-          "weekDelta": 174.19,
-          "volume": 470208
+          "price": 479.2,
+          "dayDelta": 3.07,
+          "weekDelta": 173.35,
+          "volume": 522332
         },
         {
           "name": "Omen of Dextral Erasure",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnMzRGFyayIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6e2bb52963/VoodooOmens3Dark.png",
-          "price": 475,
-          "dayDelta": 18.55,
-          "weekDelta": 44.68,
-          "volume": 77964
+          "price": 462.9,
+          "dayDelta": 15.53,
+          "weekDelta": 41,
+          "volume": 86557
+        },
+        {
+          "name": "Omen of Dextral Annulment",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnMzUHVycGxlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d901658529/VoodooOmens3Purple.png",
+          "price": 437.1,
+          "dayDelta": 18.23,
+          "weekDelta": 30.83,
+          "volume": 79686
         }
       ],
       "cheapItems": [
         {
-          "name": "Omen of the Blackblooded",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uQWJ5c3NHdWFyZW50ZWVkTGljaFR5cGVNb2QzIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/7fe7335409/OmenOnAbyssGuarenteedLichTypeMod3.png",
-          "price": 7.32
-        },
-        {
           "name": "Call of the Shadows",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUml0dWFsL1JpdHVhbEVmZmlneVBpZWNlcyIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6fb287c8f4/RitualEffigyPieces.png",
-          "price": 7.45
+          "price": 5.48
         },
         {
-          "name": "Omen of Chaotic Effectiveness",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uQ2hhb3NNYXBNb25zdGVyRWZmZWN0aXZlbmVzcyIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/1dc9f3dea9/OmenOnChaosMapMonsterEffectiveness.png",
-          "price": 8.49
+          "name": "Omen of the Blackblooded",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uQWJ5c3NHdWFyZW50ZWVkTGljaFR5cGVNb2QzIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/7fe7335409/OmenOnAbyssGuarenteedLichTypeMod3.png",
+          "price": 5.91
+        },
+        {
+          "name": "Omen of Catalysing Exaltation",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uRXhhbHRDb25zdW1lUXVhbGl0eSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ca4d0db767/OmenOnExaltConsumeQuality.png",
+          "price": 6.35
+        },
+        {
+          "name": "Omen of Answered Prayers",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnM0Qmx1ZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ba21c85554/VoodooOmens4Blue.png",
+          "price": 8.4
         },
         {
           "name": "Omen of Chaotic Monsters",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uQ2hhb3NNYXBJdGVtUXVhbnRpdHkiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/dcd21d0252/OmenOnChaosMapItemQuantity.png",
-          "price": 9.71
+          "price": 8.94
+        }
+      ]
+    },
+    "lineagesupportgems": {
+      "label": "Lineage Support Gems",
+      "count": 25,
+      "validCount": 25,
+      "topItems": [
+        {
+          "name": "Garukhan's Resolve",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0dhcnVraGFuIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/392773e9fd/Garukhan.png",
+          "price": 37040.8,
+          "dayDelta": -1.49,
+          "weekDelta": 110.58,
+          "volume": 6138
         },
         {
-          "name": "Omen of the Blessed",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvT21lbk9uRGl2aW5lUmVyb2xsSW1wbGljaXRzIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d910191d85/OmenOnDivineRerollImplicits.png",
-          "price": 10.07
+          "name": "Uul-Netol's Embrace",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVdWxOZXRvbCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/751151f142/LineageUulNetol.png",
+          "price": 24636.8,
+          "dayDelta": -8.99,
+          "weekDelta": 93.96,
+          "volume": 1917
+        },
+        {
+          "name": "Atziri's Communion",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0F0emlyaUNvbW11bmlvbiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/10509800d7/AtziriCommunion.png",
+          "price": 18466.2,
+          "dayDelta": 22.13,
+          "weekDelta": 172.93,
+          "volume": 3042
+        },
+        {
+          "name": "Rakiata's Flow",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1Jha2lhdGEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/20a70b7bd3/Rakiata.png",
+          "price": 13982.2,
+          "dayDelta": -11.91,
+          "weekDelta": 48.8,
+          "volume": 25948
+        },
+        {
+          "name": "Dialla's Desire",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0RpYWxsYSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/1b959c86b4/Dialla.png",
+          "price": 11310.7,
+          "dayDelta": -1.45,
+          "weekDelta": 122.24,
+          "volume": 3513
+        },
+        {
+          "name": "Rigwald's Ferocity",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1JpZ3dhbGQiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/a053a2b077/Rigwald.png",
+          "price": 9568.8,
+          "dayDelta": 0.74,
+          "weekDelta": 94.08,
+          "volume": 7919
+        },
+        {
+          "name": "Tul's Stillness",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUdWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/cff647542b/LineageTul.png",
+          "price": 4919.4,
+          "dayDelta": -13.72,
+          "weekDelta": 38.92,
+          "volume": 2358
+        },
+        {
+          "name": "Uhtred's Exodus",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVaHRyZWRMZXNzZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/b286006915/LineageUhtredLesser.png",
+          "price": 3455.6,
+          "dayDelta": -11.03,
+          "weekDelta": 82.75,
+          "volume": 1227
+        }
+      ],
+      "cheapItems": [
+        {
+          "name": "Ixchel's Torment",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1RyaWFsbWFzdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/231195f1b3/Trialmaster.png",
+          "price": 98.89
+        },
+        {
+          "name": "Khatal's Rejuvenation",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VLaGF0YWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e67d6a908e/LineageKhatal.png",
+          "price": 106.57
+        },
+        {
+          "name": "Arbiter's Ignition",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBcmJpdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/52bc86c140/LineageArbiter.png",
+          "price": 132.73
+        },
+        {
+          "name": "Brutus' Brain",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VNZWF0c2hpZWxkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/115edf7e2f/LineageMeatshield.png",
+          "price": 171.32
+        },
+        {
+          "name": "Tecrod's Revenge",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUZWNyb2QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/783b026592/LineageTecrod.png",
+          "price": 188.51
         }
       ]
     },
@@ -1046,93 +556,583 @@
         {
           "name": "Aldur's Legacy",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lVW5pcXVlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/0eca412563/GameWarpRuneUnique.png",
-          "price": 37230.8,
-          "dayDelta": 21.72,
-          "weekDelta": 378.68,
-          "volume": 1410
+          "price": 33677.5,
+          "dayDelta": 10.1,
+          "weekDelta": 333,
+          "volume": 1590
         },
         {
           "name": "Astrid's Creativity",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lMSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/96e9eecf72/GameWarpRune1.png",
-          "price": 3317.9,
-          "dayDelta": -8.43,
-          "weekDelta": 119.15,
-          "volume": 14264
+          "price": 3253.7,
+          "dayDelta": -10.21,
+          "weekDelta": 114.91,
+          "volume": 15947
         },
         {
           "name": "Cadigan's Epiphany",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lMyIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/884c6d6f83/GameWarpRune3.png",
-          "price": 1276.4,
-          "dayDelta": -0.23,
-          "weekDelta": 81.49,
-          "volume": 8469
+          "price": 1214.8,
+          "dayDelta": -5.05,
+          "weekDelta": 72.73,
+          "volume": 9208
         },
         {
           "name": "Serle's Triumph",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lMiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/4a1b9c272c/GameWarpRune2.png",
-          "price": 543.7,
-          "dayDelta": 15.82,
-          "weekDelta": 141.86,
-          "volume": 3973
+          "price": 538.2,
+          "dayDelta": 14.66,
+          "weekDelta": 139.43,
+          "volume": 4438
         },
         {
-          "name": "Perfect Mind Rune",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUnVuZXMvUGVyZmVjdFJ1bmVNYW5hIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/96a5dfe7d6/PerfectRuneMana.png",
-          "price": 260.2,
-          "dayDelta": 36.19,
-          "weekDelta": 68.26,
-          "volume": 1322
+          "name": "Perfect Inspiration Rune",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUnVuZXMvUGVyZmVjdFJ1bmVNYW5hUmVjb3ZlcnkiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/0941528f57/PerfectRuneManaRecovery.png",
+          "price": 250.3,
+          "dayDelta": 9.13,
+          "weekDelta": 20.29,
+          "volume": 509
         },
         {
-          "name": "Perfect Resolve Rune",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUnVuZXMvUGVyZmVjdFJ1bmVJbnRlbGxpZ2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/9c387ac5f1/PerfectRuneIntelligence.png",
-          "price": 249.3,
-          "dayDelta": 16.38,
-          "weekDelta": 57.28,
-          "volume": 727
+          "name": "Perfect Stone Rune",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUnVuZXMvUGVyZmVjdFJ1bmVTdHVuIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/063776d28b/PerfectRuneStun.png",
+          "price": 250.3,
+          "dayDelta": 36.11,
+          "weekDelta": 1092.09,
+          "volume": 120
         },
         {
           "name": "Perfect Ward Rune",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvQWRkZWRXYXJkUGVyZmVjdCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/aea05784dd/AddedWardPerfect.png",
-          "price": 236.4,
-          "dayDelta": 4.96,
-          "weekDelta": 44.42,
-          "volume": 443
+          "price": 250.1,
+          "dayDelta": 11.02,
+          "weekDelta": 52.76,
+          "volume": 484
         },
         {
-          "name": "Perfect Robust Rune",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUnVuZXMvUGVyZmVjdFJ1bmVTdHJlbmd0aCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab65433f7e/PerfectRuneStrength.png",
-          "price": 234.2,
-          "dayDelta": 17.83,
-          "weekDelta": 47.53,
-          "volume": 1077
+          "name": "Perfect Charging Rune",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvV2FyZFJlZ2VuZXJhdGlvblBlcmZlY3QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/77fdb3f9be/WardRegenerationPerfect.png",
+          "price": 248.6,
+          "dayDelta": 6.34,
+          "weekDelta": 1.38,
+          "volume": 231
         }
       ],
       "cheapItems": [
         {
           "name": "Uhtred's Sidereus",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lVGltZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/63a40dc79d/GameWarpRuneTime.png",
-          "price": 61.9
+          "price": 67.91
         },
         {
           "name": "Greater Rune of Tithing",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUnVuZXMvTGlnaHRuaW5nUnVuZVNwZWNpYWwyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/369dd670ba/LightningRuneSpecial2.png",
-          "price": 70.19
+          "price": 72.27
         },
         {
           "name": "Katla's Gloom",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lQ2hhb3MiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/c59f912034/GameWarpRuneChaos.png",
-          "price": 79.21
+          "price": 73.18
         },
         {
           "name": "Masterwork Rune",
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvVXBncmFkZVJ1bmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/3f224b0821/UpgradeRune.png",
-          "price": 90.36
+          "price": 91.64
         },
         {
-          "name": "Perfect Iron Rune",
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUnVuZXMvUGVyZmVjdFJ1bmVFbmhhbmNlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/4e46d225f8/PerfectRuneEnhance.png",
-          "price": 146.04
+          "name": "Kolr's Hunt",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lRGV4Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/27b68d6b1e/GameWarpRuneDex.png",
+          "price": 147.29
+        }
+      ]
+    },
+    "essences": {
+      "label": "Essences",
+      "count": 25,
+      "validCount": 25,
+      "topItems": [
+        {
+          "name": "Essence of Hysteria",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlSHlzdGVyaWEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/91e94f1413/CorruptedEssenceHysteria.png",
+          "price": 203.4,
+          "dayDelta": 21.54,
+          "weekDelta": 154.73,
+          "volume": 35334
+        },
+        {
+          "name": "Essence of Horror",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlSG9ycm9yIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/6b3b256279/CorruptedEssenceHorror.png",
+          "price": 25.6,
+          "dayDelta": 11.03,
+          "weekDelta": 47.01,
+          "volume": 22990
+        },
+        {
+          "name": "Essence of Opulence",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYXJpdHlSZXNpc3RhbmNlRXNzZW5jZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/1b79acb619/RarityResistanceEssence.png",
+          "price": 20.1,
+          "dayDelta": -17.53,
+          "weekDelta": 83.55,
+          "volume": 2337
+        },
+        {
+          "name": "Essence of Ruin",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9DaGFvc0Vzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/5f0d3c7014/ChaosEssence.png",
+          "price": 15,
+          "dayDelta": 179.89,
+          "weekDelta": 395.18,
+          "volume": 590
+        },
+        {
+          "name": "Essence of Delirium",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlRGVsaXJpdW0iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/d67329e6ed/CorruptedEssenceDelirium.png",
+          "price": 12,
+          "dayDelta": 57.13,
+          "weekDelta": 239.27,
+          "volume": 13648
+        },
+        {
+          "name": "Essence of Abrasion",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9QaHlzaWNhbEVzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e52cd05eeb/PhysicalEssence.png",
+          "price": 11.5,
+          "dayDelta": 17.28,
+          "weekDelta": 96.19,
+          "volume": 2731
+        },
+        {
+          "name": "Greater Essence of Opulence",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVhdGVyUmFyaXR5UmVzaXN0YW5jZUVzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/dfc7c22676/GreaterRarityResistanceEssence.png",
+          "price": 10.8,
+          "dayDelta": -7,
+          "weekDelta": -21.56,
+          "volume": 132896
+        },
+        {
+          "name": "Lesser Essence of Sorcery",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9DYXN0ZXJFc3NlbmNlTGVzc2VyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/8b5c055fc7/CasterEssenceLesser.png",
+          "price": 10.4,
+          "dayDelta": 86.68,
+          "weekDelta": 146.7,
+          "volume": 493
+        }
+      ],
+      "cheapItems": [
+        {
+          "name": "Lesser Essence of Seeking",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Dcml0aWNhbEVzc2VuY2VMZXNzZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/beef996420/CriticalEssenceLesser.png",
+          "price": 3
+        },
+        {
+          "name": "Essence of Grounding",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9MaWdodG5pbmdSZXNpc3RhbmNlRXNzZW5jZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/f752fa5ed2/LightningResistanceEssence.png",
+          "price": 3.5
+        },
+        {
+          "name": "Perfect Essence of Command",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbGx5RXNzZW5jZVBlcmZlY3QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/0e06dceedc/AllyEssencePerfect.png",
+          "price": 3.55
+        },
+        {
+          "name": "Essence of Seeking",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Dcml0aWNhbEVzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/febf231da7/CriticalEssence.png",
+          "price": 3.56
+        },
+        {
+          "name": "Greater Essence of Seeking",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVhdGVyQ3JpdGljYWxFc3NlbmNlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/db4eadee00/GreaterCriticalEssence.png",
+          "price": 3.65
+        }
+      ]
+    },
+    "delirium": {
+      "label": "Delirium",
+      "count": 25,
+      "validCount": 25,
+      "topItems": [
+        {
+          "name": "Ancient Potent Liquid Contempt",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxlc3NVbmlxdWVCZWFzdEVtb3Rpb24iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/9a1f8acc0e/TimelessUniqueBeastEmotion.png",
+          "price": 1330.1,
+          "dayDelta": 3.83,
+          "weekDelta": 448.4,
+          "volume": 10484
+        },
+        {
+          "name": "Potent Liquid Contempt",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVW5pcXVlQmVhc3RFbW90aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d126680055/UniqueBeastEmotion.png",
+          "price": 681.8,
+          "dayDelta": -19.11,
+          "weekDelta": 453.15,
+          "volume": 40237
+        },
+        {
+          "name": "Concentrated Liquid Isolation",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvQ29uY2VudHJhdGVkRGlzdGlsbGVkSXNvbGF0aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/44ca2d19b9/ConcentratedDistilledIsolation.png",
+          "price": 672.1,
+          "dayDelta": -0.02,
+          "weekDelta": -12.67,
+          "volume": 39396
+        },
+        {
+          "name": "Potent Liquid Ferocity",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVW5pcXVlQ29uc3RydWN0c0Vtb3Rpb24iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/c4ddf1e927/UniqueConstructsEmotion.png",
+          "price": 323.8,
+          "dayDelta": 45.97,
+          "weekDelta": 126.87,
+          "volume": 34380
+        },
+        {
+          "name": "Concentrated Liquid Suffering",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvQ29uY2VudHJhdGVkRGlzdGlsbGVkU3VmZmVyaW5nIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/10b12c3875/ConcentratedDistilledSuffering.png",
+          "price": 198,
+          "dayDelta": -2.19,
+          "weekDelta": -16.84,
+          "volume": 45487
+        },
+        {
+          "name": "Concentrated Liquid Fear",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvQ29uY2VudHJhdGVkRGlzdGlsbGVkRmVhciIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/2c3300fcdf/ConcentratedDistilledFear.png",
+          "price": 66.3,
+          "dayDelta": -3.17,
+          "weekDelta": -28.55,
+          "volume": 84735
+        },
+        {
+          "name": "Ancient Potent Liquid Melancholy",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxlc3NVbmlxdWVIdW1hbnNFbW90aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/34b9461ae7/TimelessUniqueHumansEmotion.png",
+          "price": 32.9,
+          "dayDelta": -14.45,
+          "weekDelta": -43.03,
+          "volume": 26467
+        },
+        {
+          "name": "Liquid Despair",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvRGlzdGlsbGVkRGVzcGFpciIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/c676bf7dae/DistilledDespair.png",
+          "price": 20.1,
+          "dayDelta": -7.22,
+          "weekDelta": -30.29,
+          "volume": 91320
+        }
+      ],
+      "cheapItems": [
+        {
+          "name": "Diluted Liquid Ire",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvRGlsdXRlZERpc3RpbGxlZElyZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/623d6e522b/DilutedDistilledIre.png",
+          "price": 0.2
+        },
+        {
+          "name": "Ancient Liquid Envy",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxvc3REaXN0aWxsZWRFbnZ5Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/8135fea7ea/TimelostDistilledEnvy.png",
+          "price": 0.22
+        },
+        {
+          "name": "Diluted Liquid Guilt",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvRGlsdXRlZERpc3RpbGxlZEd1aWx0Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/ddbd513a9b/DilutedDistilledGuilt.png",
+          "price": 0.26
+        },
+        {
+          "name": "Ancient Diluted Liquid Greed",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxvc3REaWx1dGVkRGlzdGlsbGVkR3JlZWQiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/8ef165042d/TimelostDilutedDistilledGreed.png",
+          "price": 0.33
+        },
+        {
+          "name": "Ancient Diluted Liquid Guilt",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxvc3REaWx1dGVkRGlzdGlsbGVkR3VpbHQiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/adc7474910/TimelostDilutedDistilledGuilt.png",
+          "price": 0.39
+        }
+      ]
+    },
+    "ultimatum": {
+      "label": "Soul Cores",
+      "count": 25,
+      "validCount": 25,
+      "topItems": [
+        {
+          "name": "Soul Core of Quipolatl",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZVNwZWVkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d4967ad0f1/GreaterSoulCoreSpeed.png",
+          "price": 576.7,
+          "dayDelta": 3.95,
+          "weekDelta": 108.68,
+          "volume": 11826
+        },
+        {
+          "name": "Opiloti's Soul Core of Assault",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlRnJlbnp5Q2hhcmdlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/ce5c1bdfdc/NewSoulCoreFrenzyCharge.png",
+          "price": 427.9,
+          "dayDelta": -3.4,
+          "weekDelta": 286.91,
+          "volume": 2405
+        },
+        {
+          "name": "Soul Core of Azcapa",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZVdlYWx0aFJhcml0eSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6a69033a04/GreaterSoulCoreWealthRarity.png",
+          "price": 303.9,
+          "dayDelta": 7.29,
+          "weekDelta": 323.87,
+          "volume": 6900
+        },
+        {
+          "name": "Xopec's Soul Core of Power",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlUG93ZXJDaGFyZ2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/083d39a63b/NewSoulCorePowerCharge.png",
+          "price": 197,
+          "dayDelta": -25.21,
+          "weekDelta": 9.93,
+          "volume": 2281
+        },
+        {
+          "name": "Soul Core of Cholotl",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZURleCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/c732c8a579/GreaterSoulCoreDex.png",
+          "price": 73.7,
+          "dayDelta": -1.25,
+          "weekDelta": 447.44,
+          "volume": 5012
+        },
+        {
+          "name": "Soul Core of Tacati",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZUNoYW9zIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cd9c4fb0a7/GreaterSoulCoreChaos.png",
+          "price": 47.7,
+          "dayDelta": -6.26,
+          "weekDelta": 53.58,
+          "volume": 68035
+        },
+        {
+          "name": "Quipolatl's Soul Core of Flow",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlVGltZUNvb2xkb3duIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/dab6d943f3/NewSoulCoreTimeCooldown.png",
+          "price": 45.8,
+          "dayDelta": -9.61,
+          "weekDelta": -12.63,
+          "volume": 5777
+        },
+        {
+          "name": "Tzamoto's Soul Core of Ferocity",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlUmFnZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/7bbacc1706/NewSoulCoreRage.png",
+          "price": 45.4,
+          "dayDelta": -6.53,
+          "weekDelta": -12.45,
+          "volume": 6116
+        }
+      ],
+      "cheapItems": [
+        {
+          "name": "Hayoxi's Soul Core of Heatproofing",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlSWNlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/6d8455bff0/NewSoulCoreIce.png",
+          "price": 3.62
+        },
+        {
+          "name": "Uromoti's Soul Core of Attenuation",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlQ3Vyc2VzMiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/25919ac93d/NewSoulCoreCurses2.png",
+          "price": 3.67
+        },
+        {
+          "name": "Xipocado's Soul Core of Dominion",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlTWluaW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/b1e7975db2/NewSoulCoreMinion.png",
+          "price": 4.44
+        },
+        {
+          "name": "Tacati's Soul Core of Affliction",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlQ2hhb3MxIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/276b585906/NewSoulCoreChaos1.png",
+          "price": 4.59
+        },
+        {
+          "name": "Estazunti's Soul Core of Convalescence",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlVGltZVNsb3ciLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/c32a5b3a47/NewSoulCoreTimeSlow.png",
+          "price": 8.36
+        }
+      ]
+    },
+    "currency": {
+      "label": "Currency",
+      "count": 25,
+      "validCount": 25,
+      "topItems": [
+        {
+          "name": "Mirror of Kalandra",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lEdXBsaWNhdGUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/26bc31680e/CurrencyDuplicate.png",
+          "price": 356795,
+          "dayDelta": 8.17,
+          "weekDelta": 181.41,
+          "volume": 534
+        },
+        {
+          "name": "Hinekora's Lock",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab2163ae06/HinekorasLock.png",
+          "price": 35436.5,
+          "dayDelta": -3.62,
+          "weekDelta": 317.81,
+          "volume": 5519
+        },
+        {
+          "name": "Perfect Chaos Orb",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/c0ca392a78/CurrencyRerollRare.png",
+          "price": 369.6,
+          "dayDelta": -7.3,
+          "weekDelta": 71.98,
+          "volume": 166955
+        },
+        {
+          "name": "Perfect Exalted Orb",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ad7c366789/CurrencyAddModToRare.png",
+          "price": 358.8,
+          "dayDelta": -4.18,
+          "weekDelta": 60.89,
+          "volume": 274026
+        },
+        {
+          "name": "Divine Orb",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/2986e220b3/CurrencyModValues.png",
+          "price": 125.2,
+          "dayDelta": -3.11,
+          "weekDelta": 44.99,
+          "volume": 31383414
+        },
+        {
+          "name": "Fracturing Orb",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/8b85ed1dc2/FracturingOrb.png",
+          "price": 81.4,
+          "dayDelta": -6.38,
+          "weekDelta": -7.62,
+          "volume": 325358
+        },
+        {
+          "name": "Perfect Jeweller's Orb",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzMDMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ac6398e6a0/CurrencyRerollSocketNumbers03.png",
+          "price": 78.2,
+          "dayDelta": -22.14,
+          "weekDelta": -9.48,
+          "volume": 665938
+        },
+        {
+          "name": "Orb of Annulment",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsT3JiIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/2daba8ccca/AnnullOrb.png",
+          "price": 66.3,
+          "dayDelta": 2.43,
+          "weekDelta": 129.43,
+          "volume": 1904898
+        }
+      ],
+      "cheapItems": [
+        {
+          "name": "Orb of Alchemy",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9SYXJlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/9b80b44821/CurrencyUpgradeToRare.png",
+          "price": 0.45
+        },
+        {
+          "name": "Armourer's Scrap",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBcm1vdXJRdWFsaXR5Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d5868f596d/CurrencyArmourQuality.png",
+          "price": 0.76
+        },
+        {
+          "name": "Greater Regal Orb",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e8fb148e80/CurrencyUpgradeMagicToRare.png",
+          "price": 0.96
+        },
+        {
+          "name": "Exalted Orb",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ad7c366789/CurrencyAddModToRare.png",
+          "price": 1
+        },
+        {
+          "name": "Glassblower's Bauble",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lGbGFza1F1YWxpdHkiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/1cec279e01/CurrencyFlaskQuality.png",
+          "price": 1.02
+        }
+      ]
+    },
+    "uncutgems": {
+      "label": "Uncut Gems",
+      "count": 25,
+      "validCount": 25,
+      "topItems": [
+        {
+          "name": "Uncut Spirit Gem (Level 20)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
+          "price": 675.3,
+          "dayDelta": 12.6,
+          "weekDelta": 112.58,
+          "volume": 19796
+        },
+        {
+          "name": "Uncut Skill Gem (Level 20)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
+          "price": 651.4,
+          "dayDelta": 5.15,
+          "weekDelta": 51.38,
+          "volume": 81029
+        },
+        {
+          "name": "Uncut Spirit Gem (Level 8)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
+          "price": 105.5,
+          "dayDelta": 2.64,
+          "weekDelta": 154.39,
+          "volume": 3964
+        },
+        {
+          "name": "Uncut Spirit Gem (Level 9)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
+          "price": 34.1,
+          "dayDelta": -0.88,
+          "weekDelta": 196.07,
+          "volume": 4482
+        },
+        {
+          "name": "Uncut Spirit Gem (Level 14)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
+          "price": 29.2,
+          "dayDelta": 5.64,
+          "weekDelta": 92.55,
+          "volume": 29422
+        },
+        {
+          "name": "Uncut Spirit Gem (Level 15)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
+          "price": 24.8,
+          "dayDelta": 19.52,
+          "weekDelta": 129.73,
+          "volume": 14353
+        },
+        {
+          "name": "Uncut Spirit Gem (Level 19)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
+          "price": 24.4,
+          "dayDelta": -0.48,
+          "weekDelta": 47.67,
+          "volume": 88835
+        },
+        {
+          "name": "Uncut Skill Gem (Level 1)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
+          "price": 21.4,
+          "dayDelta": 6.59,
+          "weekDelta": 101.27,
+          "volume": 11429
+        }
+      ],
+      "cheapItems": [
+        {
+          "name": "Uncut Spirit Gem (Level 17)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
+          "price": 4.01
+        },
+        {
+          "name": "Uncut Skill Gem (Level 2)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
+          "price": 4.71
+        },
+        {
+          "name": "Uncut Skill Gem (Level 11)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
+          "price": 4.86
+        },
+        {
+          "name": "Uncut Spirit Gem (Level 10)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
+          "price": 5.39
+        },
+        {
+          "name": "Uncut Skill Gem (Level 19)",
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
+          "price": 5.93
         }
       ]
     }
@@ -1140,222 +1140,222 @@
   "movers": {
     "gainers": [
       {
-        "name": "Ancient Liquid Paranoia",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxvc3REaXN0aWxsZWRQYXJhbm9pYSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ad46b5868c/TimelostDistilledParanoia.png",
-        "category": "Delirium",
-        "price": 7.6,
-        "dayDelta": 421.03,
-        "weekDelta": 211.4,
-        "volume": 1952
-      },
-      {
-        "name": "Ancient Potent Liquid Ferocity",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltbGVzc1VuaXF1ZUNvbnN0cnVjdHNFbW90aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/0274721bd5/TimlessUniqueConstructsEmotion.png",
-        "category": "Delirium",
-        "price": 33.3,
-        "dayDelta": 405.92,
-        "weekDelta": 320.18,
-        "volume": 1971
-      },
-      {
-        "name": "Idol of Greust",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVG9ybWVudGVkU3Bpcml0U29ja2V0YWJsZXMvSWRvbG9mR3JldXN0Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/04513fa428/IdolofGreust.png",
+        "name": "Omen of Reinforcements",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnM0UHVycGxlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/bed352248c/VoodooOmens4Purple.png",
         "category": "Ritual Omens",
-        "price": 21.1,
-        "dayDelta": 400.34,
-        "weekDelta": 641.31,
-        "volume": 2308
-      },
-      {
-        "name": "Ancient Liquid Disgust",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVGltZWxvc3REaXN0aWxsZWREaXNndXN0Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/692d116504/TimelostDistilledDisgust.png",
-        "category": "Delirium",
-        "price": 6,
-        "dayDelta": 246.53,
-        "weekDelta": 393.29,
-        "volume": 2053
-      },
-      {
-        "name": "Uncut Skill Gem (Level 3)",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
-        "category": "Uncut Gems",
-        "price": 8,
-        "dayDelta": 243.5,
-        "weekDelta": 328.9,
-        "volume": 8260
-      },
-      {
-        "name": "Uncut Skill Gem (Level 5)",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
-        "category": "Uncut Gems",
-        "price": 9.5,
-        "dayDelta": 172.72,
-        "weekDelta": 358.49,
-        "volume": 9651
+        "price": 34.8,
+        "dayDelta": 208.5,
+        "weekDelta": 174.35,
+        "volume": 4251
       },
       {
         "name": "Essence of Ruin",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9DaGFvc0Vzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/5f0d3c7014/ChaosEssence.png",
         "category": "Essences",
-        "price": 14.1,
-        "dayDelta": 162.79,
-        "weekDelta": 364.92,
-        "volume": 568
+        "price": 15,
+        "dayDelta": 179.89,
+        "weekDelta": 395.18,
+        "volume": 590
       },
       {
-        "name": "Uncut Skill Gem (Level 4)",
+        "name": "Refined Skittering Catalyst",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RTcGVlZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/680cbc13b1/JewelCatalystSpeed.png",
+        "category": "Breach (Catalysts)",
+        "price": 34.7,
+        "dayDelta": 117.86,
+        "weekDelta": 245.74,
+        "volume": 10678
+      },
+      {
+        "name": "Uncut Skill Gem (Level 5)",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
         "category": "Uncut Gems",
-        "price": 5.5,
-        "dayDelta": 156.87,
-        "weekDelta": 279.74,
-        "volume": 4043
+        "price": 6.6,
+        "dayDelta": 89.95,
+        "weekDelta": 219.34,
+        "volume": 10322
+      },
+      {
+        "name": "Lesser Essence of Sorcery",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9DYXN0ZXJFc3NlbmNlTGVzc2VyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/8b5c055fc7/CasterEssenceLesser.png",
+        "category": "Essences",
+        "price": 10.4,
+        "dayDelta": 86.68,
+        "weekDelta": 146.7,
+        "volume": 493
+      },
+      {
+        "name": "Soul Core of Zantipi",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZWludCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/bf932f7001/GreaterSoulCoreint.png",
+        "category": "Soul Cores",
+        "price": 34.1,
+        "dayDelta": 78.11,
+        "weekDelta": 305.77,
+        "volume": 3246
+      },
+      {
+        "name": "Essence of Electricity",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9MaWdodG5pbmdFc3NlbmNlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/2c3725fdad/LightningEssence.png",
+        "category": "Essences",
+        "price": 6.7,
+        "dayDelta": 75.95,
+        "weekDelta": 336.28,
+        "volume": 430
+      },
+      {
+        "name": "Essence of Delirium",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlRGVsaXJpdW0iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/d67329e6ed/CorruptedEssenceDelirium.png",
+        "category": "Essences",
+        "price": 12,
+        "dayDelta": 57.13,
+        "weekDelta": 239.27,
+        "volume": 13648
+      },
+      {
+        "name": "Omen of Answered Prayers",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnM0Qmx1ZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ba21c85554/VoodooOmens4Blue.png",
+        "category": "Ritual Omens",
+        "price": 8.4,
+        "dayDelta": 47.48,
+        "weekDelta": 121.47,
+        "volume": 2314
+      },
+      {
+        "name": "Potent Liquid Ferocity",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVW5pcXVlQ29uc3RydWN0c0Vtb3Rpb24iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/c4ddf1e927/UniqueConstructsEmotion.png",
+        "category": "Delirium",
+        "price": 323.8,
+        "dayDelta": 45.97,
+        "weekDelta": 126.87,
+        "volume": 34380
+      },
+      {
+        "name": "Omen of Sinistral Annulment",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT21lbnMvVm9vZG9vT21lbnMyUHVycGxlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/b9eaf38592/VoodooOmens2Purple.png",
+        "category": "Ritual Omens",
+        "price": 764.3,
+        "dayDelta": 44.5,
+        "weekDelta": 146.89,
+        "volume": 78102
       },
       {
         "name": "Guatelitzi's Soul Core of Endurance",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlRW5kdXJhbmNlQ2hhcmdlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/8da8c1e799/NewSoulCoreEnduranceCharge.png",
         "category": "Soul Cores",
-        "price": 21.8,
-        "dayDelta": 99.42,
-        "weekDelta": 110.09,
-        "volume": 1122
-      },
-      {
-        "name": "Perfect Essence of Grounding",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9MaWdodG5pbmdSZXNpc3RhbmNlRXNzZW5jZVBlcmZlY3QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/10c362c717/LightningResistanceEssencePerfect.png",
-        "category": "Essences",
-        "price": 10.9,
-        "dayDelta": 99.34,
-        "weekDelta": 1534.66,
-        "volume": 16466
-      },
-      {
-        "name": "Lesser Essence of the Infinite",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BdHRyaWJ1dGVFc3NlbmNlTGVzc2VyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/6110d3af93/AttributeEssenceLesser.png",
-        "category": "Essences",
-        "price": 5,
-        "dayDelta": 94.2,
-        "weekDelta": 221.46,
-        "volume": 251
-      },
-      {
-        "name": "Uncut Skill Gem (Level 8)",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
-        "category": "Uncut Gems",
-        "price": 11.5,
-        "dayDelta": 88.66,
-        "weekDelta": 272.46,
-        "volume": 6439
+        "price": 15.6,
+        "dayDelta": 43.14,
+        "weekDelta": 50.8,
+        "volume": 1220
       }
     ],
     "losers": [
       {
-        "name": "Xopec's Soul Core of Power",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlUG93ZXJDaGFyZ2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/083d39a63b/NewSoulCorePowerCharge.png",
-        "category": "Soul Cores",
-        "price": 157.3,
-        "dayDelta": -40.29,
-        "weekDelta": -12.24,
-        "volume": 2084
-      },
-      {
-        "name": "Uncut Spirit Gem (Level 13)",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-        "category": "Uncut Gems",
-        "price": 6.1,
-        "dayDelta": -24.75,
-        "weekDelta": 54.03,
-        "volume": 8644
-      },
-      {
-        "name": "Uncut Spirit Gem (Level 11)",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-        "category": "Uncut Gems",
-        "price": 6.4,
-        "dayDelta": -23.43,
-        "weekDelta": 23.22,
-        "volume": 4510
-      },
-      {
-        "name": "Vorana's Siege",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1ZvcmFuYXNTaWVnZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/c3df9f3c9a/VoranasSiege.png",
+        "name": "Amanamu's Tithe",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBbWFuYW11Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/715766340e/LineageAmanamu.png",
         "category": "Lineage Support Gems",
-        "price": 2083.2,
-        "dayDelta": -23.37,
-        "weekDelta": -36.23,
-        "volume": 19939
+        "price": 308.9,
+        "dayDelta": -34.77,
+        "weekDelta": 235.35,
+        "volume": 15684
       },
       {
-        "name": "Uncut Spirit Gem (Level 14)",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtQnVmZiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab25e9aa3b/UncutSkillGemBuff.png",
-        "category": "Uncut Gems",
-        "price": 21.3,
-        "dayDelta": -23.08,
-        "weekDelta": 40.21,
-        "volume": 27183
-      },
-      {
-        "name": "Arbiter's Ignition",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBcmJpdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/52bc86c140/LineageArbiter.png",
-        "category": "Lineage Support Gems",
-        "price": 141.4,
-        "dayDelta": -20.39,
-        "weekDelta": -67.3,
-        "volume": 6166
-      },
-      {
-        "name": "Perfect Charging Rune",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvV2FyZFJlZ2VuZXJhdGlvblBlcmZlY3QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/77fdb3f9be/WardRegenerationPerfect.png",
-        "category": "Runes",
-        "price": 189.1,
-        "dayDelta": -19.09,
-        "weekDelta": -22.86,
-        "volume": 194
-      },
-      {
-        "name": "Refined Sibilant Catalyst",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RDYXN0ZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/280306d9e0/JewelCatalystCaster.png",
-        "category": "Breach (Catalysts)",
-        "price": 54,
-        "dayDelta": -18.23,
-        "weekDelta": 45.31,
-        "volume": 28688
+        "name": "Call of the Shadows",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUml0dWFsL1JpdHVhbEVmZmlneVBpZWNlcyIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6fb287c8f4/RitualEffigyPieces.png",
+        "category": "Ritual Omens",
+        "price": 5.5,
+        "dayDelta": -33.58,
+        "weekDelta": -56.51,
+        "volume": 370499
       },
       {
         "name": "Perfect Adept Rune",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUnVuZXMvUGVyZmVjdFJ1bmVEZXh0ZXJpdHkiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/33ddcdf769/PerfectRuneDexterity.png",
         "category": "Runes",
-        "price": 186.2,
-        "dayDelta": -18.1,
-        "weekDelta": 17.4,
-        "volume": 453
+        "price": 157.2,
+        "dayDelta": -30.88,
+        "weekDelta": -0.92,
+        "volume": 515
       },
       {
-        "name": "Breachlord's Rift",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0JyZWFjaGxvcmRzUmVtb3JzZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6a18a03016/BreachlordsRemorse.png",
+        "name": "Lesser Essence of Opulence",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYXJpdHlSZXNpc3RhbmNlRXNzZW5jZUxlc3NlciIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/9d85275442/RarityResistanceEssenceLesser.png",
+        "category": "Essences",
+        "price": 5,
+        "dayDelta": -29.55,
+        "weekDelta": -31.9,
+        "volume": 317
+      },
+      {
+        "name": "Estazunti's Soul Core of Convalescence",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlVGltZVNsb3ciLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/c32a5b3a47/NewSoulCoreTimeSlow.png",
+        "category": "Soul Cores",
+        "price": 8.4,
+        "dayDelta": -25.8,
+        "weekDelta": -27.18,
+        "volume": 3943
+      },
+      {
+        "name": "Simulacrum",
+        "icon": "https://web.poecdn.com//gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bUZyYWdtZW50Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cce2c7e1b3/DeliriumFragment.png",
+        "category": "Fragments",
+        "price": 587.1,
+        "dayDelta": -25.4,
+        "weekDelta": 43.85,
+        "volume": 35520
+      },
+      {
+        "name": "Arbiter's Ignition",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBcmJpdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/52bc86c140/LineageArbiter.png",
         "category": "Lineage Support Gems",
-        "price": 273.3,
-        "dayDelta": -17.81,
-        "weekDelta": 17.64,
-        "volume": 1907
+        "price": 132.7,
+        "dayDelta": -25.25,
+        "weekDelta": -69.3,
+        "volume": 6799
       },
       {
-        "name": "Uncut Skill Gem (Level 1)",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VbmN1dFNraWxsR2VtIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/97f0ceba15/UncutSkillGem.png",
-        "category": "Uncut Gems",
-        "price": 16.7,
-        "dayDelta": -16.85,
-        "weekDelta": 57.01,
-        "volume": 10405
+        "name": "Xopec's Soul Core of Power",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlUG93ZXJDaGFyZ2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/083d39a63b/NewSoulCorePowerCharge.png",
+        "category": "Soul Cores",
+        "price": 197,
+        "dayDelta": -25.21,
+        "weekDelta": 9.93,
+        "volume": 2281
       },
       {
-        "name": "Potent Liquid Contempt",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGlzdGlsbGVkRW1vdGlvbnMvVW5pcXVlQmVhc3RFbW90aW9uIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d126680055/UniqueBeastEmotion.png",
-        "category": "Delirium",
-        "price": 704.1,
-        "dayDelta": -16.46,
-        "weekDelta": 471.27,
-        "volume": 36088
+        "name": "Perfect Jeweller's Orb",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzMDMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ac6398e6a0/CurrencyRerollSocketNumbers03.png",
+        "category": "Currency",
+        "price": 78.2,
+        "dayDelta": -22.14,
+        "weekDelta": -9.48,
+        "volume": 665938
+      },
+      {
+        "name": "Vorana's Siege",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1ZvcmFuYXNTaWVnZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/c3df9f3c9a/VoranasSiege.png",
+        "category": "Lineage Support Gems",
+        "price": 2121.7,
+        "dayDelta": -21.95,
+        "weekDelta": -35.05,
+        "volume": 21995
+      },
+      {
+        "name": "Amanamu's Gaze",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWJ5c3NhbEV5ZVNvY2tldGFibGVzL0FtYW5hbXVzR2F6ZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/53ba66a7d4/AmanamusGaze.png",
+        "category": "Abyss",
+        "price": 75.1,
+        "dayDelta": -21.73,
+        "weekDelta": -51.45,
+        "volume": 7976
+      },
+      {
+        "name": "Brutus' Brain",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VNZWF0c2hpZWxkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/115edf7e2f/LineageMeatshield.png",
+        "category": "Lineage Support Gems",
+        "price": 171.3,
+        "dayDelta": -21.63,
+        "weekDelta": -62.61,
+        "volume": 24299
       }
     ]
   },
@@ -1366,43 +1366,43 @@
       "poolSize": 25,
       "cheapest": {
         "name": "Hayoxi's Soul Core of Heatproofing",
-        "price": 4.3,
+        "price": 3.6,
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlSWNlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/6d8455bff0/NewSoulCoreIce.png"
       },
-      "cost3": 13,
-      "meanAll": 79.7,
-      "meanAllRoi": 513,
+      "cost3": 10.9,
+      "meanAll": 80.4,
+      "meanAllRoi": 639.7,
       "topK": 6,
-      "meanTop": 266.3,
+      "meanTop": 271.1,
       "topItems": [
         {
           "name": "Soul Core of Quipolatl",
-          "price": 569.2,
+          "price": 576.7,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZVNwZWVkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/d4967ad0f1/GreaterSoulCoreSpeed.png"
         },
         {
           "name": "Opiloti's Soul Core of Assault",
-          "price": 406.9,
+          "price": 427.9,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlRnJlbnp5Q2hhcmdlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/ce5c1bdfdc/NewSoulCoreFrenzyCharge.png"
         },
         {
           "name": "Soul Core of Azcapa",
-          "price": 329.8,
+          "price": 303.9,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZVdlYWx0aFJhcml0eSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6a69033a04/GreaterSoulCoreWealthRarity.png"
         },
         {
           "name": "Xopec's Soul Core of Power",
-          "price": 157.3,
+          "price": 197,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL05ld1NvdWxDb3JlUG93ZXJDaGFyZ2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/083d39a63b/NewSoulCorePowerCharge.png"
         },
         {
           "name": "Soul Core of Cholotl",
-          "price": 81.8,
+          "price": 73.7,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU291bENvcmVzL0dyZWF0ZXJTb3VsQ29yZURleCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/c732c8a579/GreaterSoulCoreDex.png"
         }
       ],
-      "perAttemptGainTop": 253.3,
-      "perAttemptRoiTop": 1947.2,
+      "perAttemptGainTop": 260.3,
+      "perAttemptRoiTop": 2394.7,
       "probTopPct": 24
     },
     {
@@ -1410,44 +1410,44 @@
       "label": "Breach (Catalysts)",
       "poolSize": 24,
       "cheapest": {
-        "name": "Flesh Catalyst",
-        "price": 1.4,
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0TGlmZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/06ec489870/BreachCatalystLife.png"
+        "name": "Uul-Netol's Catalyst",
+        "price": 1.5,
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0UGh5c2ljYWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/bc9406c106/BreachCatalystPhysical.png"
       },
-      "cost3": 4.2,
-      "meanAll": 19.9,
-      "meanAllRoi": 378.7,
+      "cost3": 4.4,
+      "meanAll": 22.1,
+      "meanAllRoi": 406.7,
       "topK": 6,
-      "meanTop": 65.5,
+      "meanTop": 73.3,
       "topItems": [
         {
           "name": "Refined Reaver Catalyst",
-          "price": 240.5,
+          "price": 224.5,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RBdHRhY2siLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/9c13494ea8/JewelCatalystAttack.png"
         },
         {
           "name": "Refined Sibilant Catalyst",
-          "price": 54,
+          "price": 92.4,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RDYXN0ZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/280306d9e0/JewelCatalystCaster.png"
         },
         {
           "name": "Reaver Catalyst",
-          "price": 43.1,
+          "price": 43.8,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0QXR0YWNrIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/ccc363f502/BreachCatalystAttack.png"
         },
         {
-          "name": "Sibilant Catalyst",
-          "price": 20.9,
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaENhdGFseXN0Q2FzdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/51dc6bc317/BreachCatalystCaster.png"
+          "name": "Refined Skittering Catalyst",
+          "price": 34.7,
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RTcGVlZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/680cbc13b1/JewelCatalystSpeed.png"
         },
         {
           "name": "Refined Tul's Catalyst",
-          "price": 17.6,
+          "price": 23.5,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0pld2VsQ2F0YWx5c3RDb2xkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/1b256097c6/JewelCatalystCold.png"
         }
       ],
-      "perAttemptGainTop": 61.3,
-      "perAttemptRoiTop": 1473.2,
+      "perAttemptGainTop": 69,
+      "perAttemptRoiTop": 1582,
       "probTopPct": 25
     },
     {
@@ -1455,163 +1455,163 @@
       "label": "Essences",
       "poolSize": 25,
       "cheapest": {
-        "name": "Greater Essence of Ruin",
+        "name": "Lesser Essence of Seeking",
         "price": 3,
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVhdGVyQ2hhb3NFc3NlbmNlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/5c71ec7418/GreaterChaosEssence.png"
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Dcml0aWNhbEVzc2VuY2VMZXNzZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/beef996420/CriticalEssenceLesser.png"
       },
-      "cost3": 9.1,
-      "meanAll": 15.1,
-      "meanAllRoi": 65.9,
+      "cost3": 9,
+      "meanAll": 15.7,
+      "meanAllRoi": 74.8,
       "topK": 6,
-      "meanTop": 45.3,
+      "meanTop": 47.9,
       "topItems": [
         {
           "name": "Essence of Hysteria",
-          "price": 185,
+          "price": 203.4,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlSHlzdGVyaWEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/91e94f1413/CorruptedEssenceHysteria.png"
         },
         {
           "name": "Essence of Horror",
-          "price": 25.1,
+          "price": 25.6,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlSG9ycm9yIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/6b3b256279/CorruptedEssenceHorror.png"
         },
         {
           "name": "Essence of Opulence",
-          "price": 24.8,
+          "price": 20.1,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYXJpdHlSZXNpc3RhbmNlRXNzZW5jZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/1b79acb619/RarityResistanceEssence.png"
         },
         {
           "name": "Essence of Ruin",
-          "price": 14.1,
+          "price": 15,
           "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9DaGFvc0Vzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/5f0d3c7014/ChaosEssence.png"
         },
         {
-          "name": "Essence of Abrasion",
-          "price": 11.8,
-          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9QaHlzaWNhbEVzc2VuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e52cd05eeb/PhysicalEssence.png"
+          "name": "Essence of Delirium",
+          "price": 12,
+          "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db3JydXB0ZWRFc3NlbmNlRGVsaXJpdW0iLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/d67329e6ed/CorruptedEssenceDelirium.png"
         }
       ],
-      "perAttemptGainTop": 36.2,
-      "perAttemptRoiTop": 397,
+      "perAttemptGainTop": 38.9,
+      "perAttemptRoiTop": 432.3,
       "probTopPct": 24
     }
   ],
   "lineage": {
     "buys": [
       {
-        "name": "Khatal's Rejuvenation",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VLaGF0YWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e67d6a908e/LineageKhatal.png",
-        "price": 115.1,
-        "ratioToMedian": 16.9,
-        "dayDelta": -9.85,
-        "weekDelta": 106.67,
-        "volume": 16988
-      },
-      {
         "name": "Ixchel's Torment",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1RyaWFsbWFzdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/231195f1b3/Trialmaster.png",
-        "price": 132.7,
-        "ratioToMedian": 14.66,
-        "dayDelta": 20.54,
-        "weekDelta": 125.35,
-        "volume": 1335
+        "price": 98.9,
+        "ratioToMedian": 19.96,
+        "dayDelta": -10.18,
+        "weekDelta": 67.92,
+        "volume": 1448
+      },
+      {
+        "name": "Khatal's Rejuvenation",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VLaGF0YWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/e67d6a908e/LineageKhatal.png",
+        "price": 106.6,
+        "ratioToMedian": 18.53,
+        "dayDelta": -16.55,
+        "weekDelta": 91.3,
+        "volume": 18546
       },
       {
         "name": "Arbiter's Ignition",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBcmJpdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/52bc86c140/LineageArbiter.png",
-        "price": 141.4,
-        "ratioToMedian": 13.77,
-        "dayDelta": -20.39,
-        "weekDelta": -67.3,
-        "volume": 6166
+        "price": 132.7,
+        "ratioToMedian": 14.87,
+        "dayDelta": -25.25,
+        "weekDelta": -69.3,
+        "volume": 6799
       },
       {
         "name": "Brutus' Brain",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VNZWF0c2hpZWxkIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/115edf7e2f/LineageMeatshield.png",
-        "price": 191,
-        "ratioToMedian": 10.19,
-        "dayDelta": -12.64,
-        "weekDelta": -58.32,
-        "volume": 22207
+        "price": 171.3,
+        "ratioToMedian": 11.52,
+        "dayDelta": -21.63,
+        "weekDelta": -62.61,
+        "volume": 24299
       },
       {
         "name": "Tecrod's Revenge",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUZWNyb2QiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/783b026592/LineageTecrod.png",
-        "price": 200.2,
-        "ratioToMedian": 9.72,
-        "dayDelta": -7.07,
-        "weekDelta": -2.33,
-        "volume": 9530
+        "price": 188.5,
+        "ratioToMedian": 10.47,
+        "dayDelta": -12.51,
+        "weekDelta": -8.05,
+        "volume": 10477
       },
       {
         "name": "Breachlord's Rift",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0JyZWFjaGxvcmRzUmVtb3JzZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6a18a03016/BreachlordsRemorse.png",
-        "price": 273.3,
-        "ratioToMedian": 7.12,
-        "dayDelta": -17.81,
-        "weekDelta": 17.64,
-        "volume": 1907
+        "price": 306.1,
+        "ratioToMedian": 6.45,
+        "dayDelta": -7.97,
+        "weekDelta": 31.72,
+        "volume": 2121
       },
       {
         "name": "Amanamu's Tithe",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VBbWFuYW11Iiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/715766340e/LineageAmanamu.png",
-        "price": 395.9,
-        "ratioToMedian": 4.92,
-        "dayDelta": -16.4,
-        "weekDelta": 329.77,
-        "volume": 14350
+        "price": 308.9,
+        "ratioToMedian": 6.39,
+        "dayDelta": -34.77,
+        "weekDelta": 235.35,
+        "volume": 15684
       },
       {
         "name": "Uhtred's Omen",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVaHRyZWRTdGFuZGFyZCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/2e603483a5/LineageUhtredStandard.png",
-        "price": 591.9,
-        "ratioToMedian": 3.29,
-        "dayDelta": 11.72,
-        "weekDelta": 14.02,
-        "volume": 7632
+        "price": 566.6,
+        "ratioToMedian": 3.48,
+        "dayDelta": 6.94,
+        "weekDelta": 9.15,
+        "volume": 8456
       },
       {
         "name": "Catha's Brilliance",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0NhdGhhc0JyaWxsaWFuY2UiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/101f7491fe/CathasBrilliance.png",
-        "price": 738.9,
-        "ratioToMedian": 2.63,
-        "dayDelta": 19.29,
-        "weekDelta": 54.7,
-        "volume": 9596
+        "price": 580.5,
+        "ratioToMedian": 3.4,
+        "dayDelta": -6.27,
+        "weekDelta": 21.55,
+        "volume": 10394
       },
       {
         "name": "Breachlord's Amalgam",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0JyZWFjaGxvcmRzQW1hbGdhbSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/bdbefcb65b/BreachlordsAmalgam.png",
-        "price": 1026,
-        "ratioToMedian": 1.9,
-        "dayDelta": -0.01,
-        "weekDelta": -62.63,
-        "volume": 4875
+        "price": 816.7,
+        "ratioToMedian": 2.42,
+        "dayDelta": -20.4,
+        "weekDelta": -70.26,
+        "volume": 5397
       },
       {
         "name": "Uhtred's Augury",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVaHRyZWRHcmVhdGVyIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/207f49bf94/LineageUhtredGreater.png",
-        "price": 1294.4,
-        "ratioToMedian": 1.5,
-        "dayDelta": 14.36,
-        "weekDelta": 118.27,
-        "volume": 4227
+        "price": 1236.8,
+        "ratioToMedian": 1.6,
+        "dayDelta": 9.27,
+        "weekDelta": 108.56,
+        "volume": 4714
       },
       {
         "name": "Xoph's Pyre",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VYb3BoIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/09f4b817dc/LineageXoph.png",
-        "price": 1646,
-        "ratioToMedian": 1.18,
-        "dayDelta": -1.45,
-        "weekDelta": 8.44,
-        "volume": 1851
+        "price": 1497.7,
+        "ratioToMedian": 1.32,
+        "dayDelta": -10.32,
+        "weekDelta": -1.33,
+        "volume": 2074
       }
     ],
     "summary": {
       "count": 25,
-      "median": 1946.1,
-      "cheapest": 115.1,
-      "mostExpensive": 40163.3
+      "median": 1974.1,
+      "cheapest": 98.9,
+      "mostExpensive": 37040.8
     }
   },
   "summary": {
@@ -1620,91 +1620,91 @@
         "name": "Mirror of Kalandra",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lEdXBsaWNhdGUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/26bc31680e/CurrencyDuplicate.png",
         "category": "Currency",
-        "price": 350370
+        "price": 356795
       },
       {
         "name": "Garukhan's Resolve",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0dhcnVraGFuIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/392773e9fd/Garukhan.png",
         "category": "Lineage Support Gems",
-        "price": 40163
-      },
-      {
-        "name": "Aldur's Legacy",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lVW5pcXVlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/0eca412563/GameWarpRuneUnique.png",
-        "category": "Runes",
-        "price": 37231
+        "price": 37041
       },
       {
         "name": "Hinekora's Lock",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ab2163ae06/HinekorasLock.png",
         "category": "Currency",
-        "price": 36620
+        "price": 35437
+      },
+      {
+        "name": "Aldur's Legacy",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lVW5pcXVlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/0eca412563/GameWarpRuneUnique.png",
+        "category": "Runes",
+        "price": 33677
       },
       {
         "name": "Uul-Netol's Embrace",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVdWxOZXRvbCIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/751151f142/LineageUulNetol.png",
         "category": "Lineage Support Gems",
-        "price": 24524
+        "price": 24637
       },
       {
         "name": "Atziri's Communion",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0F0emlyaUNvbW11bmlvbiIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/10509800d7/AtziriCommunion.png",
         "category": "Lineage Support Gems",
-        "price": 17515
+        "price": 18466
       },
       {
         "name": "Rakiata's Flow",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1Jha2lhdGEiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/20a70b7bd3/Rakiata.png",
         "category": "Lineage Support Gems",
-        "price": 15980
+        "price": 13982
       },
       {
         "name": "Dialla's Desire",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0RpYWxsYSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/1b959c86b4/Dialla.png",
         "category": "Lineage Support Gems",
-        "price": 12936
+        "price": 11311
       },
       {
         "name": "Azmeri Reliquary Key",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Ud2lsaWdodE9yZGVyUmVsaXF1YXJ5S2V5QXptZXJpIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/cf47ea370f/TwilightOrderReliquaryKeyAzmeri.png",
         "category": "Fragments",
-        "price": 12045
-      },
-      {
-        "name": "Raven-Touched Shard",
-        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1FbmRnYW1lU29ja2V0YWJsZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/8ad4972b7b/DeliriumEndgameSocketable.png",
-        "category": "Ritual Omens",
-        "price": 10399
+        "price": 11240
       },
       {
         "name": "Rigwald's Ferocity",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL1JpZ3dhbGQiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/a053a2b077/Rigwald.png",
         "category": "Lineage Support Gems",
-        "price": 10003
+        "price": 9569
+      },
+      {
+        "name": "Raven-Touched Shard",
+        "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1FbmRnYW1lU29ja2V0YWJsZSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/8ad4972b7b/DeliriumEndgameSocketable.png",
+        "category": "Ritual Omens",
+        "price": 9074
       },
       {
         "name": "Tul's Stillness",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VUdWwiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/cff647542b/LineageTul.png",
         "category": "Lineage Support Gems",
-        "price": 5645
+        "price": 4919
       },
       {
         "name": "Uhtred's Exodus",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VVaHRyZWRMZXNzZXIiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/b286006915/LineageUhtredLesser.png",
         "category": "Lineage Support Gems",
-        "price": 3651
+        "price": 3456
       },
       {
         "name": "Astrid's Creativity",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbjIvR2FtZVdhcnBSdW5lMSIsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/96e9eecf72/GameWarpRune1.png",
         "category": "Runes",
-        "price": 3318
+        "price": 3254
       },
       {
         "name": "Esh's Radiance",
         "icon": "https://web.poecdn.com//gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9OZXcvTmV3U3VwcG9ydC9MaW5lYWdlL0xpbmVhZ2VFc2giLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/2bdbf8be07/LineageEsh.png",
         "category": "Lineage Support Gems",
-        "price": 2680
+        "price": 2483
       }
     ]
   }
