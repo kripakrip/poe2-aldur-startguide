@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T19:33:33.907Z",
+  "generatedAt": "2026-07-17T03:35:22.778Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 475.9475406572443,
-    "chaosDiv": 7.397261760632677,
+    "divine": 426.0676835414358,
+    "chaosDiv": 7.137243594815575,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,7 +28,7 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 233.0277777777778
+        "divine": 375.188679245283
       },
       {
         "name": "Hardcore",
@@ -48,18 +48,25 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 475.9475406572443
+        "divine": 426.0676835414358
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 287.8859570916403
+        "divine": 302.4316239316239
       }
     ]
   },
   "categories": {
     "currency": {
       "label": "Currency",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "ultimatum": {
+      "label": "Soul Cores",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -72,22 +79,15 @@
       "topItems": [],
       "cheapItems": []
     },
+    "uncutgems": {
+      "label": "Uncut Gems",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
     "fragments": {
       "label": "Fragments",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "essences": {
-      "label": "Essences",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "delirium": {
-      "label": "Delirium",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -100,22 +100,8 @@
       "topItems": [],
       "cheapItems": []
     },
-    "ritual": {
-      "label": "Ritual Omens",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "uncutgems": {
-      "label": "Uncut Gems",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "lineagesupportgems": {
-      "label": "Lineage Support Gems",
+    "essences": {
+      "label": "Essences",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -128,8 +114,22 @@
       "topItems": [],
       "cheapItems": []
     },
-    "ultimatum": {
-      "label": "Soul Cores",
+    "delirium": {
+      "label": "Delirium",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "lineagesupportgems": {
+      "label": "Lineage Support Gems",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "ritual": {
+      "label": "Ritual Omens",
       "count": 0,
       "validCount": 0,
       "topItems": [],
