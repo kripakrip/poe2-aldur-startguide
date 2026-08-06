@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T03:34:27.008Z",
+  "generatedAt": "2026-08-06T09:04:12.905Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 361.11650222133386,
-    "chaosDiv": 7.867519396200746,
+    "divine": 366.24578671694223,
+    "chaosDiv": 7.788346253748076,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,7 +28,7 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 218.5649263721553
+        "divine": 300
       },
       {
         "name": "Hardcore",
@@ -48,12 +48,12 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 361.11650222133386
+        "divine": 366.24578671694223
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 347.2205673758865
+        "divine": 354.8661311914324
       }
     ]
   },
@@ -65,8 +65,15 @@
       "topItems": [],
       "cheapItems": []
     },
-    "fragments": {
-      "label": "Fragments",
+    "ritual": {
+      "label": "Ritual Omens",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "uncutgems": {
+      "label": "Uncut Gems",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -86,8 +93,15 @@
       "topItems": [],
       "cheapItems": []
     },
-    "essences": {
-      "label": "Essences",
+    "fragments": {
+      "label": "Fragments",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "delirium": {
+      "label": "Delirium",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -100,20 +114,6 @@
       "topItems": [],
       "cheapItems": []
     },
-    "ritual": {
-      "label": "Ritual Omens",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "breach": {
-      "label": "Breach (Catalysts)",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
     "lineagesupportgems": {
       "label": "Lineage Support Gems",
       "count": 0,
@@ -121,15 +121,15 @@
       "topItems": [],
       "cheapItems": []
     },
-    "uncutgems": {
-      "label": "Uncut Gems",
+    "essences": {
+      "label": "Essences",
       "count": 0,
       "validCount": 0,
       "topItems": [],
       "cheapItems": []
     },
-    "delirium": {
-      "label": "Delirium",
+    "breach": {
+      "label": "Breach (Catalysts)",
       "count": 0,
       "validCount": 0,
       "topItems": [],
