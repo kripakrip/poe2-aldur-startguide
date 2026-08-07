@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T03:16:53.264Z",
+  "generatedAt": "2026-08-07T07:39:36.363Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 361.738369020253,
-    "chaosDiv": 7.76957922383977,
+    "divine": 358.0365612368316,
+    "chaosDiv": 7.785996400243914,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,7 +28,7 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 405.93243243243245
+        "divine": 456.3670103092783
       },
       {
         "name": "Hardcore",
@@ -48,18 +48,25 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 361.738369020253
+        "divine": 358.0365612368316
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 320.5476590636255
+        "divine": 304.0210526315789
       }
     ]
   },
   "categories": {
-    "currency": {
-      "label": "Currency",
+    "ultimatum": {
+      "label": "Soul Cores",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "runes": {
+      "label": "Runes",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -72,27 +79,6 @@
       "topItems": [],
       "cheapItems": []
     },
-    "abyss": {
-      "label": "Abyss",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "ultimatum": {
-      "label": "Soul Cores",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "uncutgems": {
-      "label": "Uncut Gems",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
     "lineagesupportgems": {
       "label": "Lineage Support Gems",
       "count": 0,
@@ -100,8 +86,15 @@
       "topItems": [],
       "cheapItems": []
     },
-    "delirium": {
-      "label": "Delirium",
+    "currency": {
+      "label": "Currency",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "abyss": {
+      "label": "Abyss",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -114,15 +107,22 @@
       "topItems": [],
       "cheapItems": []
     },
-    "breach": {
-      "label": "Breach (Catalysts)",
+    "uncutgems": {
+      "label": "Uncut Gems",
       "count": 0,
       "validCount": 0,
       "topItems": [],
       "cheapItems": []
     },
-    "runes": {
-      "label": "Runes",
+    "delirium": {
+      "label": "Delirium",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "breach": {
+      "label": "Breach (Catalysts)",
       "count": 0,
       "validCount": 0,
       "topItems": [],
