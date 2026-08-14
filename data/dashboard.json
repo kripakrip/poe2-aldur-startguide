@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T02:44:19.542Z",
+  "generatedAt": "2026-08-14T07:48:44.499Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 301.95830667093264,
-    "chaosDiv": 8.835649061329413,
+    "divine": 332.5494208126426,
+    "chaosDiv": 8.743149215931412,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,7 +28,7 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 294.3829563387691
+        "divine": 594.6762048192771
       },
       {
         "name": "Hardcore",
@@ -48,18 +48,32 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 301.95830667093264
+        "divine": 332.5494208126426
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 390.0546031746032
+        "divine": 456.11806797853313
       }
     ]
   },
   "categories": {
     "currency": {
       "label": "Currency",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "fragments": {
+      "label": "Fragments",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "ritual": {
+      "label": "Ritual Omens",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -86,8 +100,8 @@
       "topItems": [],
       "cheapItems": []
     },
-    "ritual": {
-      "label": "Ritual Omens",
+    "breach": {
+      "label": "Breach (Catalysts)",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -100,13 +114,6 @@
       "topItems": [],
       "cheapItems": []
     },
-    "essences": {
-      "label": "Essences",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
     "uncutgems": {
       "label": "Uncut Gems",
       "count": 0,
@@ -114,15 +121,8 @@
       "topItems": [],
       "cheapItems": []
     },
-    "breach": {
-      "label": "Breach (Catalysts)",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "fragments": {
-      "label": "Fragments",
+    "essences": {
+      "label": "Essences",
       "count": 0,
       "validCount": 0,
       "topItems": [],
