@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T06:56:10.089Z",
+  "generatedAt": "2026-08-15T12:57:43.573Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 362.40904608334733,
-    "chaosDiv": 9.787477576898581,
+    "divine": 352.16502814612596,
+    "chaosDiv": 10.193778629490195,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,7 +28,7 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 218.552
+        "divine": 253.96848137535815
       },
       {
         "name": "Hardcore",
@@ -48,12 +48,12 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 362.40904608334733
+        "divine": 352.16502814612596
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 347.49285714285713
+        "divine": 423.11966801775714
       }
     ]
   },
@@ -65,8 +65,22 @@
       "topItems": [],
       "cheapItems": []
     },
-    "essences": {
-      "label": "Essences",
+    "runes": {
+      "label": "Runes",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "breach": {
+      "label": "Breach (Catalysts)",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "ritual": {
+      "label": "Ritual Omens",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -86,27 +100,6 @@
       "topItems": [],
       "cheapItems": []
     },
-    "runes": {
-      "label": "Runes",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "lineagesupportgems": {
-      "label": "Lineage Support Gems",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "breach": {
-      "label": "Breach (Catalysts)",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
     "ultimatum": {
       "label": "Soul Cores",
       "count": 0,
@@ -121,8 +114,8 @@
       "topItems": [],
       "cheapItems": []
     },
-    "ritual": {
-      "label": "Ritual Omens",
+    "essences": {
+      "label": "Essences",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -130,6 +123,13 @@
     },
     "uncutgems": {
       "label": "Uncut Gems",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "lineagesupportgems": {
+      "label": "Lineage Support Gems",
       "count": 0,
       "validCount": 0,
       "topItems": [],
