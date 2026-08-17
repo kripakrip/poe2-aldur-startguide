@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T18:45:39.360Z",
+  "generatedAt": "2026-08-17T01:53:47.439Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 325.6004990134471,
-    "chaosDiv": 9.847322374920576,
+    "divine": 322.7198651026276,
+    "chaosDiv": 9.715046780351988,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,7 +28,7 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 180.31848894348894
+        "divine": 241.0708309009535
       },
       {
         "name": "Hardcore",
@@ -48,12 +48,12 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 325.6004990134471
+        "divine": 322.7198651026276
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 247.49121504578076
+        "divine": 249.9473684210526
       }
     ]
   },
@@ -65,15 +65,22 @@
       "topItems": [],
       "cheapItems": []
     },
-    "ritual": {
-      "label": "Ritual Omens",
+    "runes": {
+      "label": "Runes",
       "count": 0,
       "validCount": 0,
       "topItems": [],
       "cheapItems": []
     },
-    "runes": {
-      "label": "Runes",
+    "delirium": {
+      "label": "Delirium",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "ultimatum": {
+      "label": "Soul Cores",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -93,8 +100,15 @@
       "topItems": [],
       "cheapItems": []
     },
-    "delirium": {
-      "label": "Delirium",
+    "fragments": {
+      "label": "Fragments",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "ritual": {
+      "label": "Ritual Omens",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -109,20 +123,6 @@
     },
     "abyss": {
       "label": "Abyss",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "ultimatum": {
-      "label": "Soul Cores",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "fragments": {
-      "label": "Fragments",
       "count": 0,
       "validCount": 0,
       "topItems": [],
