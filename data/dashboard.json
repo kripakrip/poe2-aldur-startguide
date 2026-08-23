@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T18:47:37.960Z",
+  "generatedAt": "2026-08-23T01:58:20.317Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 358.6788160551471,
-    "chaosDiv": 10.931035340145568,
+    "divine": 335.21007389013033,
+    "chaosDiv": 10.963094380561056,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,12 +28,12 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 244.73049645390068
+        "divine": 222.12569832402235
       },
       {
         "name": "Hardcore",
         "isCurrent": false,
-        "divine": 134
+        "divine": 100
       },
       {
         "name": "Fate of the Vaal",
@@ -48,18 +48,32 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 358.6788160551471
+        "divine": 335.21007389013033
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 346.8069491064139
+        "divine": 304.1117107393416
       }
     ]
   },
   "categories": {
     "currency": {
       "label": "Currency",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "lineagesupportgems": {
+      "label": "Lineage Support Gems",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "breach": {
+      "label": "Breach (Catalysts)",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -79,15 +93,8 @@
       "topItems": [],
       "cheapItems": []
     },
-    "ultimatum": {
-      "label": "Soul Cores",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "breach": {
-      "label": "Breach (Catalysts)",
+    "abyss": {
+      "label": "Abyss",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -100,22 +107,15 @@
       "topItems": [],
       "cheapItems": []
     },
-    "abyss": {
-      "label": "Abyss",
+    "delirium": {
+      "label": "Delirium",
       "count": 0,
       "validCount": 0,
       "topItems": [],
       "cheapItems": []
     },
-    "ritual": {
-      "label": "Ritual Omens",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "lineagesupportgems": {
-      "label": "Lineage Support Gems",
+    "ultimatum": {
+      "label": "Soul Cores",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -128,8 +128,8 @@
       "topItems": [],
       "cheapItems": []
     },
-    "delirium": {
-      "label": "Delirium",
+    "ritual": {
+      "label": "Ritual Omens",
       "count": 0,
       "validCount": 0,
       "topItems": [],
