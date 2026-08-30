@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T11:53:03.107Z",
+  "generatedAt": "2026-08-30T16:39:33.639Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 412.56895346165476,
-    "chaosDiv": 12.122436870812418,
+    "divine": 390.82268410119923,
+    "chaosDiv": 11.378484092147241,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,7 +28,7 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 521.8928086838534
+        "divine": 222.83044982698965
       },
       {
         "name": "Hardcore",
@@ -48,32 +48,18 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 412.56895346165476
+        "divine": 390.82268410119923
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 186.96875
+        "divine": 349.4114077669903
       }
     ]
   },
   "categories": {
     "currency": {
       "label": "Currency",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "ritual": {
-      "label": "Ritual Omens",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "breach": {
-      "label": "Breach (Catalysts)",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -93,6 +79,13 @@
       "topItems": [],
       "cheapItems": []
     },
+    "ritual": {
+      "label": "Ritual Omens",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
     "abyss": {
       "label": "Abyss",
       "count": 0,
@@ -100,15 +93,22 @@
       "topItems": [],
       "cheapItems": []
     },
-    "runes": {
-      "label": "Runes",
+    "uncutgems": {
+      "label": "Uncut Gems",
       "count": 0,
       "validCount": 0,
       "topItems": [],
       "cheapItems": []
     },
-    "uncutgems": {
-      "label": "Uncut Gems",
+    "essences": {
+      "label": "Essences",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "runes": {
+      "label": "Runes",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -128,8 +128,8 @@
       "topItems": [],
       "cheapItems": []
     },
-    "essences": {
-      "label": "Essences",
+    "breach": {
+      "label": "Breach (Catalysts)",
       "count": 0,
       "validCount": 0,
       "topItems": [],
