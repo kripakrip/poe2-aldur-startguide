@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T04:30:21.104Z",
+  "generatedAt": "2026-09-04T11:15:57.116Z",
   "league": "Runes of Aldur",
   "leagueMeta": {
-    "divine": 444.6430357546228,
-    "chaosDiv": 9.681015327352608,
+    "divine": 442.97045888533285,
+    "chaosDiv": 9.952530951049882,
     "allLeagues": [
       {
         "name": "Dawn of the Hunt",
@@ -28,12 +28,12 @@
       {
         "name": "Standard",
         "isCurrent": false,
-        "divine": 282.70337922403
+        "divine": 338.2020316027088
       },
       {
         "name": "Hardcore",
         "isCurrent": false,
-        "divine": 240.25
+        "divine": 240
       },
       {
         "name": "Fate of the Vaal",
@@ -48,18 +48,32 @@
       {
         "name": "Runes of Aldur",
         "isCurrent": true,
-        "divine": 444.6430357546228
+        "divine": 442.97045888533285
       },
       {
         "name": "HC Runes of Aldur",
         "isCurrent": true,
-        "divine": 279.77142857142854
+        "divine": 344.4222222222222
       }
     ]
   },
   "categories": {
     "currency": {
       "label": "Currency",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "lineagesupportgems": {
+      "label": "Lineage Support Gems",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "ritual": {
+      "label": "Ritual Omens",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -72,15 +86,22 @@
       "topItems": [],
       "cheapItems": []
     },
-    "delirium": {
-      "label": "Delirium",
+    "uncutgems": {
+      "label": "Uncut Gems",
       "count": 0,
       "validCount": 0,
       "topItems": [],
       "cheapItems": []
     },
-    "ritual": {
-      "label": "Ritual Omens",
+    "fragments": {
+      "label": "Fragments",
+      "count": 0,
+      "validCount": 0,
+      "topItems": [],
+      "cheapItems": []
+    },
+    "essences": {
+      "label": "Essences",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -100,22 +121,8 @@
       "topItems": [],
       "cheapItems": []
     },
-    "fragments": {
-      "label": "Fragments",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "uncutgems": {
-      "label": "Uncut Gems",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "lineagesupportgems": {
-      "label": "Lineage Support Gems",
+    "delirium": {
+      "label": "Delirium",
       "count": 0,
       "validCount": 0,
       "topItems": [],
@@ -123,13 +130,6 @@
     },
     "abyss": {
       "label": "Abyss",
-      "count": 0,
-      "validCount": 0,
-      "topItems": [],
-      "cheapItems": []
-    },
-    "essences": {
-      "label": "Essences",
       "count": 0,
       "validCount": 0,
       "topItems": [],
